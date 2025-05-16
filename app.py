@@ -1,14 +1,28 @@
 import streamlit as st
+from components import auth, recommender, progress
 
+st.set_page_config(page_title="CurveMyPath", layout="centered")
+
+# Login or Welcome screen
+auth.login_ui()
+
+# Main dashboard
 st.title("🎓 CurveMyPath")
 st.write("A simple course recommender for OVGU students.")
+st.subheader(f"🎯 Hi, {st.session_state['user_id']}! Let’s Curve Your Path!")
+st.markdown("---")
 
-st.warning("🚧 Dashboard is under construction: This is an MVP. We're actively working to improve it! Feedback is welcome.")
+# Recommendation section
+recommender.select_goal()
 
-goal = st.selectbox("Select your career goal:", ["Data Scientist", "Product Management", "AI/ML Developer"])
-if st.button("Recommend Courses"):
-    st.write(f"Recommended for {goal}: Human-Centered AI, Statistics I")
-st.write("Why? These courses align with your goal’s core skills.")
+# Progress tracker
+progress.show_progress()
 
-if st.button("💬 Give feedback"):
-    st.write("Email us at: team@curvemypath.com")
+# Footer
+st.markdown("---")
+col1, col2 = st.columns([3, 1])
+with col1:
+    st.warning("🚧 Dashboard is under construction: This is an MVP. We're actively working to improve it!")
+with col2:
+    if st.button("💬 Give feedback"):
+        st.write("Email us at: team@curvemypath.com")
