@@ -1,4 +1,5 @@
 import streamlit as st
+from components import roadmap_builder, recommender
 from components import auth, recommender, progress
 
 st.set_page_config(page_title="CurveMyPath", layout="centered")
@@ -15,7 +16,13 @@ st.markdown("---")
 recommender.select_goal()
 
 # Progress tracker
-progress.show_progress()
+#progress.show_progress()
+
+# Get the current goal from session state BEFORE calling display
+current_goal = st.session_state.get("current_goal")
+
+# AI-generated Roadmap
+roadmap_builder.display_ai_roadmap(current_goal)
 
 # Footer
 st.markdown("---")

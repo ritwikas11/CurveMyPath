@@ -62,8 +62,8 @@ def select_goal():
             st.markdown(f"- {course}")
         st.info("Why? These courses align with your goal’s core skills.")
 
-        # Save path button
-        st.write("Like what you see? Click 'Save My Path' to build your personalized roadmap and track your progress ▼")
-        if st.button("💾 Save My Path"):
-            st.session_state["show_progress"] = True
-            st.rerun()
+        # Roadmap button
+        st.write("Like what you see? Click 'Generate Roadmap' to build your personalized roadmap ▼")
+        #if st.button("💾 Generate My Path"):
+            #st.session_state["show_progess"] = True
+            #st.rerun()
