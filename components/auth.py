@@ -1,15 +1,33 @@
 import streamlit as st
+import json
+import os
+
+USER_DB = "data/users.json"
 
 def login_ui():
+    # Load users file or create one
+    if not os.path.exists(USER_DB):
+        with open(USER_DB, "w") as f:
+            json.dump({"test@ovgu.de": {"password": "1234"}}, f)
+
+    with open(USER_DB, "r") as f:
+        users = json.load(f)
+
     if "user_id" not in st.session_state:
         st.title("🎓 CurveMyPath")
-        st.write("A simple course recommender for OVGU students.")
-        user_input = st.text_input("Enter your name to personalize your dashboard:")
-        
-        if user_input:
-            st.session_state["user_id"] = user_input
-            st.success(f"Welcome, {user_input}! Your session has started.")
-            st.rerun()  # 🔁 force rerun to show dashboard immediately
+        st.write("A smart course recommender for OVGU students.")
+        st.markdown("#### 🔐 Login to access your personalized dashboard:")
 
-        st.caption("🔐 This is just to personalize your dashboard. No data is stored permanently or shared.")
+        email = st.text_input("Email")
+        password = st.text_input("Password", type="password")
+
+        if st.button("Login"):
+            if email in users and users[email]["password"] == password:
+                st.session_state["user_id"] = email
+                st.success(f"Welcome, {email}! Your session has started.")
+                st.rerun()
+            else:
+                st.error("Invalid credentials. Please try again.")
+
+        st.caption("👤 New user? Contact admin to get access (for now, email/password check is manual).")
         st.stop()

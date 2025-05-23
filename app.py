@@ -9,7 +9,6 @@ auth.login_ui()
 # Main dashboard
 st.title("🎓 CurveMyPath")
 st.write("A simple course recommender for OVGU students.")
-st.subheader(f"🎯 Hi, {st.session_state['user_id']}! Let’s Curve Your Path!")
 st.markdown("---")
 
 # Recommendation section
