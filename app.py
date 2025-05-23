@@ -8,7 +8,7 @@ auth.login_ui()
 
 # Main dashboard
 st.title("🎓 CurveMyPath")
-st.write("A simple course recommender for OVGU students.")
+st.write("A simple course recommender for OVGU students. A career planner powered by AI 🚀")
 st.markdown("---")
 
 # Recommendation section
