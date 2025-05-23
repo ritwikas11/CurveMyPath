@@ -4,7 +4,7 @@
       "Machine Learning",
       "Data Analysis with Python"
     ],
-    "Product Management": [
+    "Product Owner/Scrum Master": [
       "Human-Centered AI",
       "Scrum-In-Practice",
       "Soft Skills"
@@ -13,6 +13,16 @@
       "Human-Centered AI",
       "Deep Learning",
       "Advanced Python"
+    ],
+    "DevOps Engineer": [
+      "Cloud Computing",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Business Analyst": [
+      "Business Analysis Fundamentals",
+      "Data Visualization with Tableau",
+      "SQL for Data Science"
     ]
   }
   
