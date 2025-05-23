@@ -19,9 +19,16 @@ goals = [
 # Prompt format
 def generate_roadmap(goal):
     prompt = f"""
-As a career advisor, list top 5 skills, certifications, and tools someone should learn to become a successful {goal} in tech. Write them as bullet points:
-- 
-"""
+    Act as a senior career advisor. The student wants to become a {goal} in the tech industry.
+
+    List a 12-month learning roadmap including:
+        - Essential technical skills
+        - Must-have certifications
+        - Recommended tools
+        - 1 project idea for each quarter
+    
+    Format as bullet points. No need for explanations or additional text. Just the roadmap, bullet points only.
+    """
     output = llm(
         prompt,
         max_length=200,
