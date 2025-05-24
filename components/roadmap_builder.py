@@ -5,7 +5,7 @@ import os
 # Load the cleaned roadmap data
 @st.cache_data
 def load_cleaned_roadmap():
-    json_path = "/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/roadmap_cleaned_keywords.json"
+    json_path = os.path.join("data", "roadmap_cleaned_keywords.json")
     if not os.path.exists(json_path):
         st.warning("Cleaned roadmap file not found.")
         return {}
