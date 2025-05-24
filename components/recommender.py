@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 def select_goal():
-    # Load data
+    # Load course options
     try:
         with open("data/courses.json", "r") as f:
             course_data = json.load(f)
@@ -12,58 +12,39 @@ def select_goal():
 
     goal_options = list(course_data.keys())
 
-    # Reset logic
-    if st.session_state.get("reset_requested"):
-        st.session_state["show_recommendation"] = False
-        st.session_state["show_progress"] = False
-        st.session_state["current_goal"] = None
-        st.session_state["reset_requested"] = False
+    # Initialize state if not set
+    if "current_goal" not in st.session_state:
+        st.session_state.current_goal = None
+    if "goal_selected" not in st.session_state:
+        st.session_state.goal_selected = None
+    if "show_roadmap" not in st.session_state:
+        st.session_state.show_roadmap = False
 
-    # 🟢 Case: User has already saved path → Dashboard mode
-    if st.session_state.get("show_progress"):
-        current_goal = st.session_state["current_goal"]
-        st.markdown(f"### ✅ You selected: **{current_goal}**")
-        # Styled Reset button (Streamlit native)
-        if st.button("Select a different goal"):
-            st.session_state["reset_requested"] = True
-            st.rerun()
-        st.markdown("#### 🎯 Based on your goal, we recommend:")
-        for course in course_data.get(current_goal, []):
-            st.markdown(f"- {course}")
-        return
-
-    # 🟡 Case: Still in selection mode
+    # UI layout
     st.markdown("### 🎯 Choose your career goal:")
-
     cols = st.columns([3, 1])
-    with cols[0]:
-        selected_goal = st.selectbox("Select your career goal", goal_options, label_visibility="collapsed")
 
+    # Dropdown
+    with cols[0]:
+        selected = st.selectbox(
+            "Select your career goal",
+            goal_options,
+            key="goal_dropdown",
+            index=goal_options.index(st.session_state.goal_selected) if st.session_state.goal_selected in goal_options else 0
+        )
+
+    # Reset if selection changed
+    if selected != st.session_state.goal_selected:
+        st.session_state.goal_selected = selected
+        st.session_state.show_roadmap = False
+
+    # Button
     with cols[1]:
-        if st.button("🚀 Recommend Courses", use_container_width=True):
-            if "goals_selected" not in st.session_state:
-                st.session_state["goals_selected"] = []
-            st.session_state["current_goal"] = selected_goal
-            st.session_state["show_recommendation"] = True
-            if selected_goal not in st.session_state["goals_selected"]:
-                st.session_state["goals_selected"].append(selected_goal)
+        if st.button("🚀 Generate Roadmap", use_container_width=True):
+            st.session_state.current_goal = selected
+            st.session_state.show_roadmap = True
             st.rerun()
 
-    # Clear output if dropdown changes
-    if "current_goal" in st.session_state and selected_goal != st.session_state["current_goal"]:
-        st.session_state["show_recommendation"] = False
-        st.session_state["show_progress"] = False
-
-    # Show recommendations if triggered
-    if st.session_state.get("show_recommendation"):
-        goal = st.session_state["current_goal"]
-        st.markdown(f"#### Recommended for **{goal}**:")
-        for course in course_data.get(goal, []):
-            st.markdown(f"- {course}")
-        st.info("Why? These courses align with your goal’s core skills.")
-
-        # Roadmap button
-        st.write("Like what you see? Click 'Generate Roadmap' to build your personalized roadmap ▼")
-        #if st.button("💾 Generate My Path"):
-            #st.session_state["show_progess"] = True
-            #st.rerun()
+    # Display reminder
+    if not st.session_state.show_roadmap:
+        st.info("Click 'Generate Roadmap' to view your personalized recommendations.")

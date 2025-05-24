@@ -1,22 +1,41 @@
 import streamlit as st
-from components.llm_engine import generate_roadmap
+import json
+import os
+
+# Load the cleaned roadmap data
+@st.cache_data
+def load_cleaned_roadmap():
+    json_path = "/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/roadmap_cleaned_keywords.json"
+    if not os.path.exists(json_path):
+        st.warning("Cleaned roadmap file not found.")
+        return {}
+    with open(json_path, "r") as f:
+        return json.load(f)
 
 def display_ai_roadmap(goal):
+    #if not goal:
+        #st.info("Please select and save a goal first.")
+        #return
 
-    # Handle Generate Roadmap button
-    if f"roadmap_output_{goal}" not in st.session_state:
-        if st.button("🔍 Generate Roadmap"):
-            with st.spinner("Generating roadmap using TinyLlama..."):
-                output = generate_roadmap(goal)
-                st.session_state[f"roadmap_output_{goal}"] = output
-                st.rerun()  # 🔁 Immediately rerun to show output after saving
+    roadmaps = load_cleaned_roadmap()
+    goal_data = roadmaps.get(goal)
 
-    # Show roadmap if available
-    if f"roadmap_output_{goal}" in st.session_state:
-        output = st.session_state[f"roadmap_output_{goal}"]
-        st.markdown("#### Recommended Skills & Certifications:")
+    if not goal_data:
+        st.warning("No roadmap available for this goal.")
+        return
 
-        for line in output.split("\n"):
-            line = line.strip("-• ")
-            if line:
-                st.checkbox(line, key=f"skill_{hash(line)}")
+    st.markdown("#### 🔍 Recommended Keywords, Skills & Tools")
+    st.markdown(f"##### 🎓 Academic Subjects for {goal}:")
+    for kw in goal_data.get("course_keywords", []):
+        st.checkbox(kw, key=f"{goal}_kw_{kw}")
+
+    st.markdown(f"##### 🧠 External Skills / Certifications:")
+    if goal_data.get("external_skills"):
+        for skill in goal_data.get("external_skills", []):
+            st.checkbox(skill, key=f"{goal}_skill_{skill}")
+    else:
+        st.caption("No external skills listed.")
+
+    st.markdown(f"##### 🛠️ Recommended Tools:")
+    for tool in goal_data.get("tools", []):
+        st.checkbox(tool, key=f"{goal}_tool_{tool}")

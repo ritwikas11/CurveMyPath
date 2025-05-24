@@ -1,0 +1,90 @@
+{
+  "Data Scientist": {
+    "course_keywords": [
+      "Big Data Analytics",
+      "Data Visualization",
+      "Machine Learning",
+      "Mathematics",
+      "Programming"
+    ],
+    "external_skills": [],
+    "tools": [
+      "Git/Github",
+      "Python",
+      "R",
+      "Sql",
+      "Tableau"
+    ]
+  },
+  "Product Owner/Scrum Master": {
+    "course_keywords": [
+      "Agile Methodologies",
+      "Business Analysis Or Requirements Gathering",
+      "Product Management",
+      "Project Management",
+      "Software Development/Engineering"
+    ],
+    "external_skills": [
+      "Certified Scrum Master",
+      "Certified Scrum Product Owner"
+    ],
+    "tools": [
+      "Confluence",
+      "Jira",
+      "Ms Teams",
+      "Slack",
+      "Trello"
+    ]
+  },
+  "AI/ML Developer": {
+    "course_keywords": [
+      "Artificial Intelligence",
+      "Computer Science",
+      "Data Science",
+      "Machine Learning",
+      "Programming"
+    ],
+    "external_skills": [],
+    "tools": [
+      "Git/Github",
+      "Jupyter Notebooks",
+      "Python",
+      "Pytorch",
+      "Tensorflow"
+    ]
+  },
+  "DevOps Engineer": {
+    "course_keywords": [
+      "Cloud Computing",
+      "Computer Science",
+      "Networking And Security",
+      "Software Engineering",
+      "Version Control And Ci/Cd Pipelines"
+    ],
+    "external_skills": [],
+    "tools": [
+      "Ansible Or Terraform",
+      "Docker",
+      "Github",
+      "Jenkins",
+      "Kubernetes"
+    ]
+  },
+  "Business Analyst": {
+    "course_keywords": [
+      "Business Administration / Management",
+      "Computer Science / Information Systems",
+      "Data Analysis / Data Science",
+      "Economics",
+      "Statistics"
+    ],
+    "external_skills": [],
+    "tools": [
+      "Business Intelligence  Tools",
+      "Microsoft Excel",
+      "Microsoft Powerpoint",
+      "Microsoft Word",
+      "Project Management Tools Like Jira Or Trello"
+    ]
+  }
+}
