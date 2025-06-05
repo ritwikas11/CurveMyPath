@@ -2,14 +2,16 @@ import streamlit as st
 import json
 import os
 
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+
 @st.cache_data
 def load_scored_courses():
-    with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/scored_courses_by_goal.json", "r") as f:
+    with open(os.path.join(DATA_DIR, "scored_courses_by_goal.json"), "r") as f:
         return json.load(f)
 
 @st.cache_data
 def load_cleaned_roadmap():
-    with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/roadmap_cleaned_keywords.json", "r") as f:
+    with open(os.path.join(DATA_DIR, "roadmap_cleaned_keywords.json"), "r") as f:
         return json.load(f)
 
 def display_ai_roadmap(goal):
