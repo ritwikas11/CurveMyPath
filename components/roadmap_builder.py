@@ -2,40 +2,62 @@ import streamlit as st
 import json
 import os
 
-# Load the cleaned roadmap data
+@st.cache_data
+def load_scored_courses():
+    with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/scored_courses_by_goal.json", "r") as f:
+        return json.load(f)
+
 @st.cache_data
 def load_cleaned_roadmap():
-    json_path = os.path.join("data", "roadmap_cleaned_keywords.json")
-    if not os.path.exists(json_path):
-        st.warning("Cleaned roadmap file not found.")
-        return {}
-    with open(json_path, "r") as f:
+    with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/roadmap_cleaned_keywords.json", "r") as f:
         return json.load(f)
 
 def display_ai_roadmap(goal):
-    #if not goal:
-        #st.info("Please select and save a goal first.")
-        #return
+    st.markdown(f"### 🚀 Generating Roadmap for: `{goal}`")
 
-    roadmaps = load_cleaned_roadmap()
-    goal_data = roadmaps.get(goal)
+    all_matches = load_scored_courses()
+    roadmap = load_cleaned_roadmap()
 
-    if not goal_data:
-        st.warning("No roadmap available for this goal.")
+    goal_courses = all_matches.get(goal, [])
+    top_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[:8]
+    more_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[8:13]
+
+    if not top_courses:
+        st.warning("No matching English courses found for this goal.")
         return
 
-    st.markdown("#### 🔍 Recommended Keywords, Skills & Tools")
-    st.markdown(f"##### 🎓 Academic Subjects for {goal}:")
-    for kw in goal_data.get("course_keywords", []):
-        st.checkbox(kw, key=f"{goal}_kw_{kw}")
+    # OVGU COURSES
+    st.markdown("#### 📚 Top 8 OVGU Courses")
+    for i, course in enumerate(top_courses, start=1):
+        keywords = ", ".join(course.get("matched_keywords", []))
+        st.markdown(f"**{i}. {course['course_title']}**  \n"
+                    f"*Match Score:* `{course['max_score']}%`  \n"
+                    f"*Matched Keywords:* `{keywords}`")
+        st.markdown("---")
 
-    st.markdown(f"##### 🧠 External Skills / Certifications:")
-    if goal_data.get("external_skills"):
-        for skill in goal_data.get("external_skills", []):
-            st.checkbox(skill, key=f"{goal}_skill_{skill}")
+    # EXPLORE MORE
+    if more_courses:
+        with st.expander("🔍 Click to view 5 additional relevant subjects (optional)"):
+            st.markdown("#### 🧭 Additional Relevant Courses")
+            for i, course in enumerate(more_courses, start=9):
+                keywords = ", ".join(course.get("matched_keywords", []))
+                st.markdown(f"**{i}. {course['course_title']}**  \n"
+                            f"*Match Score:* `{course['max_score']}%`  \n"
+                            f"*Matched Keywords:* `{keywords}`  ")
+                st.markdown("---")
+
+
+    # SKILLS + TOOLS
+    goal_data = roadmap.get(goal)
+    if goal_data:
+        if goal_data.get("external_skills"):
+            st.markdown("#### 🧠 External Skills / Certifications")
+            for sk in goal_data["external_skills"]:
+                st.checkbox(sk, key=f"{goal}_skill_{sk}")
+
+        if goal_data.get("tools"):
+            st.markdown("#### 🛠️ Tools / Platforms")
+            for tool in goal_data["tools"]:
+                st.checkbox(tool, key=f"{goal}_tool_{tool}")
     else:
-        st.caption("No external skills listed.")
-
-    st.markdown(f"##### 🛠️ Recommended Tools:")
-    for tool in goal_data.get("tools", []):
-        st.checkbox(tool, key=f"{goal}_tool_{tool}")
+        st.warning("No additional skills/tools found for this goal.")

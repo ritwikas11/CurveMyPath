@@ -1,90 +1,106 @@
 {
   "Data Scientist": {
     "course_keywords": [
-      "Big Data Analytics",
-      "Data Visualization",
-      "Machine Learning",
-      "Mathematics",
-      "Programming"
+      "Artificial Intelligence And Deep Learning Fundamentals",
+      "Big Data Analytics And Management",
+      "Data Visualization And Interactive Application Development",
+      "Machine Learning And Pattern Recognition",
+      "Statistical Data Analysis And Probability Theory"
     ],
     "external_skills": [],
     "tools": [
-      "Git/Github",
-      "Python",
-      "R",
-      "Sql",
-      "Tableau"
+      "Git For Version Control",
+      "Python Or R Programming Languages",
+      "Sql For Database Management"
     ]
   },
   "Product Owner/Scrum Master": {
     "course_keywords": [
-      "Agile Methodologies",
-      "Business Analysis Or Requirements Gathering",
-      "Product Management",
-      "Project Management",
-      "Software Development/Engineering"
+      "Agile Methodologies And Scrum Framework",
+      "Business Analysis And Requirements Gathering",
+      "Product Lifecycle Management And Go-To-Market Strategies",
+      "Stakeholder Engagement And Communication"
     ],
     "external_skills": [
-      "Certified Scrum Master",
-      "Certified Scrum Product Owner"
+      "Agile Certified Practitioner  Certification",
+      "Leadership And Team Management Abilities",
+      "Product Ownership Certification",
+      "Stakeholder Communication Skills"
     ],
     "tools": [
+      "Agile/Scrum Frameworks",
       "Confluence",
       "Jira",
-      "Ms Teams",
       "Slack",
       "Trello"
     ]
   },
   "AI/ML Developer": {
     "course_keywords": [
-      "Artificial Intelligence",
-      "Computer Science",
-      "Data Science",
-      "Machine Learning",
-      "Programming"
+      "Computer Vision And Natural Language Processing",
+      "Data Science And Big Data Analytics",
+      "Deep Learning And Neural Networks",
+      "Machine Learning Algorithms And Theory",
+      "Programming For Ai"
     ],
-    "external_skills": [],
+    "external_skills": [
+      "Aws Certified Machine Learning - Specialty",
+      "Google Professional Machine Learning Engineer",
+      "Ibm Ai Engineering Professional Certificate",
+      "Industry-Recognized Certifications, Such As:",
+      "Microsoft Certified: Azure Ai Engineer Associate"
+    ],
     "tools": [
-      "Git/Github",
-      "Jupyter Notebooks",
-      "Python",
+      "Jupyter Notebook",
+      "Keras",
       "Pytorch",
+      "Scikit-Learn",
       "Tensorflow"
     ]
   },
   "DevOps Engineer": {
     "course_keywords": [
       "Cloud Computing",
-      "Computer Science",
-      "Networking And Security",
-      "Software Engineering",
-      "Version Control And Ci/Cd Pipelines"
+      "Containerization And Orchestration",
+      "Continuous Integration/Continuous Deployment",
+      "Infrastructure As Code",
+      "Software Development And Scripting"
     ],
-    "external_skills": [],
+    "external_skills": [
+      "Aws Certified Devops Engineer Certification",
+      "Certified Kubernetes Administrator  Certification",
+      "Excellent Communication And Stakeholder Management Skills",
+      "Leadership Abilities And Team Collaboration Capabilities",
+      "Pmi Agile Certified Practitioner  Certification"
+    ],
     "tools": [
-      "Ansible Or Terraform",
+      "Ansible",
       "Docker",
-      "Github",
+      "Github Or Gitlab",
       "Jenkins",
       "Kubernetes"
     ]
   },
   "Business Analyst": {
     "course_keywords": [
-      "Business Administration / Management",
-      "Computer Science / Information Systems",
-      "Data Analysis / Data Science",
-      "Economics",
-      "Statistics"
+      "Business German And Intercultural Communication",
+      "Business Intelligence And Data Warehousing",
+      "Financial And Management Accounting",
+      "Predictive Analytics And Data Modeling",
+      "Process Optimization And Management"
     ],
-    "external_skills": [],
+    "external_skills": [
+      "Certification Of Competency In Business Analysis",
+      "Leadership And Teamwork",
+      "Project Management Professional  Certification",
+      "Stakeholder Communication Skills"
+    ],
     "tools": [
-      "Business Intelligence  Tools",
-      "Microsoft Excel",
-      "Microsoft Powerpoint",
-      "Microsoft Word",
-      "Project Management Tools Like Jira Or Trello"
+      "Agile/Scrum Framework For Project Management",
+      "Jira Or Other Project Management Software",
+      "Microsoft Office Suite",
+      "Sql For Data Manipulation And Retrieval",
+      "Tableau Or Powerbi For Data Visualization"
     ]
   }
 }

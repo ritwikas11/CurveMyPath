@@ -1,0 +1,1979 @@
+{
+  "Data Scientist": [
+    {
+      "goal": "Data Scientist",
+      "course_title": "Visualization",
+      "english_title": "Visualization \nModule level, (optional): \n \nAbbreviation: \nVIS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Applied Computer Science / Visualization \nLecturer(s): \nProf. Dr. Bernhard Preim",
+      "matched_keywords": [
+        "data visualization and interactive application development",
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        88.5,
+        52.3
+      ],
+      "max_score": 88.5,
+      "language": "English",
+      "description_snippet": ":  \n \nGoals: \nThis lecture conveys basic knowledge about visualizing large \ndata in a structured manner including interactive exploration of \nthe data by means ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Visual Analytics",
+      "english_title": "Visual Analytics \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Applied Computer Science / Visualization \nLecturer(s): \nProf. Dr.-Ing. Bernhard Preim",
+      "matched_keywords": [
+        "big data analytics and management",
+        "big data analytics and management",
+        "data visualization and interactive application development",
+        "data visualization and interactive application development",
+        "statistical data analysis and probability theory",
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        70.6,
+        70.6,
+        71.1,
+        86.3,
+        52.3,
+        58.8
+      ],
+      "max_score": 86.3,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives and skills to be acquired: \nThis lecture teaches how large, high-dimensional, partially \nunreliable and incomplete data can be analyze..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Swarm Intelligence",
+      "english_title": "Swarm Intelligence \nModule level, (optional): \n \nAbbreviation: \nSI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        85.1
+      ],
+      "max_score": 85.1,
+      "language": "English",
+      "description_snippet": ":  \nApplication of swarm intelligence methods for problem solving \n(optimization and distributed systems)Ability to develop swarm \nintelligence algorithms..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Computational Intelligence in Games",
+      "english_title": "Computational Intelligence in Games \nModule level, (optional): \n \nAbbreviation: \nCIG \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        80.0
+      ],
+      "max_score": 80.0,
+      "language": "English",
+      "description_snippet": ":  \nApplication of computational intelligence methods for problem \nsolving in computer gamesAbility to develop algorithms..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Data Science with R",
+      "english_title": "Data Science with R \nModule level, (optional): \n \nAbbreviation: \nDataSciR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Information Systems II - \nKnowledge Management & Discovery \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "matched_keywords": [
+        "big data analytics and management",
+        "data visualization and interactive application development",
+        "statistical data analysis and probability theory",
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        73.1,
+        73.9,
+        75.3,
+        75.3
+      ],
+      "max_score": 75.3,
+      "language": "English",
+      "description_snippet": ":  \n \nThe course is about learning from data to perform predictions \nand obtain useful insights. In the seminar, we will use the \nstatistical programming langua..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Visual Analytics in Health Care",
+      "english_title": "Visual Analytics in Health Care \nModule level, (optional): \n \nAbbreviation: \nVAHC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Bernhard Preim Dr. Gabriel Mistelbauer \nLecturer(s): \nProf. Dr.-Ing. Bernhard Preim Dr. Gabriel Mistelbauer",
+      "matched_keywords": [
+        "big data analytics and management",
+        "data visualization and interactive application development",
+        "data visualization and interactive application development",
+        "machine learning and pattern recognition",
+        "statistical data analysis and probability theory",
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        70.6,
+        71.1,
+        55.0,
+        75.0,
+        52.3,
+        52.3
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives and competences to be acquired: This \nseminar teaches how combinations of data analysis (clustering, \nregression analysis, classificat..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Knowledge Engineering and Digital Humanities",
+      "english_title": "Knowledge Engineering and Digital Humanities \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Ernesto De Luca \nLecturer(s): \nProf. Dr. Ernesto De Luca",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals",
+        "big data analytics and management",
+        "data visualization and interactive application development",
+        "data visualization and interactive application development",
+        "machine learning and pattern recognition"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        63.3,
+        53.3,
+        73.9,
+        73.9,
+        66.7
+      ],
+      "max_score": 73.9,
+      "language": "English",
+      "description_snippet": ":  \n \nplanning and development of digital infrastructures \ninterdisciplinary work in big teams \nvisualization of Big Data  \nDigital Humanities project planning ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Advanced Topics in Databases",
+      "english_title": "Advanced Topics in Databases \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. David Broneske",
+      "matched_keywords": [
+        "big data analytics and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        73.1
+      ],
+      "max_score": 73.1,
+      "language": "English",
+      "description_snippet": ":  \nIn the lecture students will be made familiar with most recent \ntechnological developments in data management. The first goal \nis to enable the attendees to..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Data Management for Engineering Applications",
+      "english_title": "Data Management for Engineering Applications \nModule level, (optional): \n \nAbbreviation: \nDMEA \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nComputer Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "big data analytics and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        73.1
+      ],
+      "max_score": 73.1,
+      "language": "English",
+      "description_snippet": ":  \nIdentifying, describing and classifying engineering applications, \nbasic understanding of information systems, ability to design a \ndatabase in the context ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Distributed Data Management",
+      "english_title": "Distributed Data Management \nModule level, (optional): \n \nAbbreviation: \nDDM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "big data analytics and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        73.1
+      ],
+      "max_score": 73.1,
+      "language": "English",
+      "description_snippet": ":  \nComprehension of basic principles and advantages of \ndistributed data managementCompetence to develop \ndistributed databases \nComprehension of query and tra..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Industrial 3D Scanning - Theory and Best-practices",
+      "english_title": "Industrial 3D Scanning - Theory and Best-practices \nModule level, (optional): \n \nAbbreviation: \n3D Scanning \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \n \nModule coordinator:  \nProfessorship Visualization \nLecturer(s): \nDr. Christian Teutsch (Fraunhofer IFF)",
+      "matched_keywords": [
+        "big data analytics and management",
+        "data visualization and interactive application development",
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        73.1,
+        55.0,
+        52.3
+      ],
+      "max_score": 73.1,
+      "language": "English",
+      "description_snippet": ":  \nAn understanding of 3D scanning in industrial metrologyAn \nunderstanding of 3D data structures and processing algorithms \nAn understanding of algorithms tha..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Transaction Processing",
+      "english_title": "Transaction Processing \nModule level, (optional): \n \nAbbreviation: \nTP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nProf. Dr. Thomas Leich",
+      "matched_keywords": [
+        "big data analytics and management",
+        "big data analytics and management"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        59.6,
+        73.1
+      ],
+      "max_score": 73.1,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \nBasic understanding of the problems of transaction \nmanagement \nKnowledge of theoretical principles \nKnowledge of ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Deep Learning for Weather and Climate",
+      "english_title": "Deep Learning for Weather and Climate \nModule level, (optional): \n \nAbbreviation: \nDLWC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Christian Lessig \nLecturer(s): \nProf. Dr. Christian Lessig",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        71.4
+      ],
+      "max_score": 71.4,
+      "language": "English",
+      "description_snippet": ":  \n \nClimate change is one of the fundamental challenges facing \nhumanity. Existing climate simulations provide important \ninsights into how humans affect and ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Advanced Database Models",
+      "english_title": "Advanced Database Models \nModule level, (optional): \n \nAbbreviation: \nADBM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester; M.Sc. from 2nd semester; M.Sc. from \n3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "data visualization and interactive application development",
+        "data visualization and interactive application development"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        71.1,
+        51.3
+      ],
+      "max_score": 71.1,
+      "language": "English",
+      "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Cloud School",
+      "english_title": "Cloud School \nModule level, (optional): \n \nAbbreviation: \nCS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester \nTerm: \nevery semester \nModule coordinator:  \nProfessorship for Information Systems I \nLecturer(s): \nProfessorship for Information Systems I",
+      "matched_keywords": [
+        "big data analytics and management",
+        "data visualization and interactive application development"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        59.6,
+        71.1
+      ],
+      "max_score": 71.1,
+      "language": "English",
+      "description_snippet": ":  \n \nUnderstanding of the cloud computing paradigm, including \ncharacteristics, service and deployment models, workloads and \nrevenue models \nUnderstanding of ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Funktionale Programmierung - fortgeschrittene Konzepte und",
+      "english_title": "Functional Programming - advanced concepts and applications \nModule level, (optional): \n \nAbbreviation: \nFP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr. Till Mossakowski \nLecturer(s): \nProf. Dr. Till Mossakowski",
+      "matched_keywords": [
+        "data visualization and interactive application development"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        71.1
+      ],
+      "max_score": 71.1,
+      "language": "English",
+      "description_snippet": ":  \n \nIn-depth understanding of concepts of functional programming \nIn-depth knowledge of Haskell insights into the role of \nfunctional concepts in other progra..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Introduction to Simulation",
+      "english_title": "Introduction to Simulation \nModule level, (optional): \n \nAbbreviation: \nItS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Simulation \nLecturer(s): \nGraham Horton",
+      "matched_keywords": [
+        "statistical data analysis and probability theory"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        68.5
+      ],
+      "max_score": 68.5,
+      "language": "English",
+      "description_snippet": ":  \nAbility to carry out a semester-long project using the basics of \nsimulation, event-oriented modeling and programming, abstract \nmodeling and applications o..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Neural-symbolic integration",
+      "english_title": "Neural-symbolic integration \nModule level, (optional): \n \nAbbreviation: \nNeuroSymbV \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Till Mossakowski \nLecturer(s): \nProf. Till Mossakowski",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        68.3
+      ],
+      "max_score": 68.3,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge of the limitations of neural and of symbolic \napproachesKnowledge of different neural-symbolic \narchitecturesAbility to choose and document an arc..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Advanced Topics in Machine Learning",
+      "english_title": "Advanced Topics in Machine Learning \nModule level, (optional): \n \nAbbreviation: \nATiML \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester; M.Sc. from 2nd semester; M.Sc. from \n3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Data and Knowledge Engineering \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
+      "matched_keywords": [
+        "machine learning and pattern recognition",
+        "machine learning and pattern recognition"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        66.7,
+        57.1
+      ],
+      "max_score": 66.7,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \nIn-depth understanding of selected problems and concepts of \nmachine learning methods \nKnowledge of advanced data ..."
+    },
+    {
+      "goal": "Data Scientist",
+      "course_title": "Applied Deep Learning",
+      "english_title": "Applied Deep Learning \nModule level, (optional): \n \nAbbreviation: \nADL \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Sebastian Stober \nLecturer(s): \nProf. Sebastian Stober",
+      "matched_keywords": [
+        "artificial intelligence and deep learning fundamentals"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        66.7
+      ],
+      "max_score": 66.7,
+      "language": "English",
+      "description_snippet": ":  \n- confidently apply DL techniques to develop a solution for a \ngiven problem \n- follow recent DL publications and critically assess their \ncontributions \n- ..."
+    }
+  ],
+  "Product Owner/Scrum Master": [
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Clean Code Development",
+      "english_title": "Clean Code Development \nModule level, (optional): \n \nAbbreviation: \nCCD \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Software Engineering \nLecturer(s): \nFrank Ortmeier, FIN-IKS",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        72.5
+      ],
+      "max_score": 72.5,
+      "language": "English",
+      "description_snippet": ":  \nPrinciples of clean code development \nUse of various tools and practices \nPractical experience in the use of professional methods in \nsoftware engineering \n..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Evolutionary Multi-Objective Optimization",
+      "english_title": "Evolutionary Multi-Objective Optimization \nModule level, (optional): \n \nAbbreviation: \nEMO \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Computational Intelligence \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        72.5
+      ],
+      "max_score": 72.5,
+      "language": "English",
+      "description_snippet": ":  \n- Application of computational intelligence methods for \nProblem solving in multi-criteria optimization \n- Ability to develop the algorithms \n- Sound knowle..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Introduction to Software Engineering for Engineers",
+      "english_title": "Introduction to Software Engineering for Engineers \nModule level, (optional): \n \nAbbreviation: \nISEE \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nDr.-Ing. Christian Braune \nLecturer(s): \nDr.-Ing. Christian Braune",
+      "matched_keywords": [
+        "business analysis and requirements gathering",
+        "business analysis and requirements gathering",
+        "product lifecycle management and go-to-market strategies",
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        53.3,
+        72.5,
+        61.7,
+        59.6
+      ],
+      "max_score": 72.5,
+      "language": "English",
+      "description_snippet": ":  \n \nKnowledge and Understanding: \nUnderstand the principles of software engineering. \nUnderstand the principles of requirement engineering \nUnderstand the pri..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Swarm Intelligence",
+      "english_title": "Swarm Intelligence \nModule level, (optional): \n \nAbbreviation: \nSI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        72.5
+      ],
+      "max_score": 72.5,
+      "language": "English",
+      "description_snippet": ":  \nApplication of swarm intelligence methods for problem solving \n(optimization and distributed systems)Ability to develop swarm \nintelligence algorithms..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Advanced Database Models",
+      "english_title": "Advanced Database Models \nModule level, (optional): \n \nAbbreviation: \nADBM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester; M.Sc. from 2nd semester; M.Sc. from \n3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "agile methodologies and scrum framework"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        60.7
+      ],
+      "max_score": 60.7,
+      "language": "English",
+      "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Biometrics and Security",
+      "english_title": "Biometrics and Security \nModule level, (optional): \n \nAbbreviation: \nBIOSEC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Applied Computer Science / Multimedia and \nSecurity \nLecturer(s): \nProfessorship of Applied Computer Science / Multimedia and \nSecurity",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \nAcquisition of a basic understanding of security aspects in \nbiometric systems and the ability to assess themAbility to create \nconcepts for the constructio..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Data Science with R",
+      "english_title": "Data Science with R \nModule level, (optional): \n \nAbbreviation: \nDataSciR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Information Systems II - \nKnowledge Management & Discovery \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \n \nThe course is about learning from data to perform predictions \nand obtain useful insights. In the seminar, we will use the \nstatistical programming langua..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "HealthTEC Innovation Design",
+      "english_title": "HealthTEC Innovation Design \nModule level, (optional): \n \nAbbreviation: \nHTID \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \n--- \nModule coordinator:  \nProf. Dr. Michael Friebe \nLecturer(s): \nProf. Dr. Michael Friebe",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & skills to be acquired: - Stanford Biodesign \nPrinciple - Identify / Invent / Implement so-called Unmet Clinical \nNeed - Teaching innov..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Introduction to Computer Science for Engineers",
+      "english_title": "Introduction to Computer Science for Engineers \nModule level, (optional): \n \nAbbreviation: \nICSE \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nDr.-Ing. Christian Braune \nLecturer(s): \nDr.-Ing. Christian Braune",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \n \nKnowledge and Understanding: \n- Understand the principles of object-oriented programming. \n- Understand and recognize the fundamental data structures \nsuc..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Introduction to Robotics",
+      "english_title": "Introduction to Robotics \nModule level, (optional): \n \nAbbreviation: \nItR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester \nTerm: \nSummer semester \nModule coordinator:  \nDr. Ch. Steup \nLecturer(s): \nDr. Ch. Steup",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \n- Understanding the Structure of Complex Robotic Systems \n- Building Complex Robots and Robotic Systems from Building \nBlocks \n- Aspects of Robotic Systems ..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Mobilkommunikation",
+      "english_title": "Mobile Communication \nModule level, (optional): \n \nAbbreviation: \nMobCom \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Computer Engineering \nLecturer(s): \nProf. Dr. Mesut G\u00fcne\u015f",
+      "matched_keywords": [
+        "business analysis and requirements gathering",
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        53.3,
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \n- Students are able to understand the differences between \nclassic fixed networks and mobile wireless networks and..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Multimedia and Security",
+      "english_title": "Multimedia and Security \nModule level, (optional): \n \nAbbreviation: \nMMSEC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \n \nModule coordinator:  \nProfessorship of Applied Computer Science / Multimedia and \nSecurity \nLecturer(s): \nProfessorship of Applied Computer Science / Multimedia and \nSecurity",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & acquired skills: \nThe student should be able to recognize and solve security \nproblems in multimedia applications. To this end, he/she..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Software Testing",
+      "english_title": "Software Testing \nModule level, (optional): \n \nAbbreviation: \nSWT \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nPD Dr.-Ing. Sandro Schulze \nLecturer(s): \nPD Dr.-Ing. Sandro Schulze",
+      "matched_keywords": [
+        "stakeholder engagement and communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        59.6
+      ],
+      "max_score": 59.6,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Data Management for Engineering Applications",
+      "english_title": "Data Management for Engineering Applications \nModule level, (optional): \n \nAbbreviation: \nDMEA \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nComputer Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "product lifecycle management and go-to-market strategies"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        56.4
+      ],
+      "max_score": 56.4,
+      "language": "English",
+      "description_snippet": ":  \nIdentifying, describing and classifying engineering applications, \nbasic understanding of information systems, ability to design a \ndatabase in the context ..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Scrum-in-Practice",
+      "english_title": "Scrum-in-Practice \nModule level, (optional): \n \nAbbreviation: \nSIP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Software Engineering \nLecturer(s): \nFrank Ortmeier, FIN-IKS",
+      "matched_keywords": [
+        "agile methodologies and scrum framework"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        80.0
+      ],
+      "max_score": 80.0,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge of the Scrum project management method \nPractical application of agile software development methods \nGain practical experience by carrying out a p..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Database Concepts /Databases",
+      "english_title": "Database Concepts /Databases \nModule level, (optional): \n \nAbbreviation: \nDB 1 \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nProf. Dr. Gunter Saake",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        53.3
+      ],
+      "max_score": 53.3,
+      "language": "English",
+      "description_snippet": ":  \nBasic Understanding of Database Systems (Terminology, Basic \nConcepts)Techniques to Design a Relational DatabaseKnowledge \nabout Relational Database Languag..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Distributed Data Management",
+      "english_title": "Distributed Data Management \nModule level, (optional): \n \nAbbreviation: \nDDM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        53.3
+      ],
+      "max_score": 53.3,
+      "language": "English",
+      "description_snippet": ":  \nComprehension of basic principles and advantages of \ndistributed data managementCompetence to develop \ndistributed databases \nComprehension of query and tra..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Grundlagen verteilter Sensordatenfusion",
+      "english_title": "Introduction to Distributed Sensor Data Fusion \nModule level, (optional): \n \nAbbreviation: \nSDF \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Benjamin Noack \nLecturer(s): \nProf. Dr. Benjamin Noack",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        53.3
+      ],
+      "max_score": 53.3,
+      "language": "English",
+      "description_snippet": ":  \nYou have an overview of basic problems and methods in \ndesigning distributed sensor systems and their applications. \n You understand how to process data in ..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Neural-symbolic integration",
+      "english_title": "Neural-symbolic integration \nModule level, (optional): \n \nAbbreviation: \nNeuroSymbV \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Till Mossakowski \nLecturer(s): \nProf. Till Mossakowski",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        53.3
+      ],
+      "max_score": 53.3,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge of the limitations of neural and of symbolic \napproachesKnowledge of different neural-symbolic \narchitecturesAbility to choose and document an arc..."
+    },
+    {
+      "goal": "Product Owner/Scrum Master",
+      "course_title": "Recommenders",
+      "english_title": "Recommenders \nModule level, (optional): \n \nAbbreviation: \nRECSYS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Business Informatics II \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "matched_keywords": [
+        "business analysis and requirements gathering"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        53.3
+      ],
+      "max_score": 53.3,
+      "language": "English",
+      "description_snippet": ":  \n- Understanding the operational requirements of a \nrecommendation engine \n- Specialist knowledge of the methods that fulfill these \nrequirements, primarily ..."
+    }
+  ],
+  "AI/ML Developer": [
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Human-Centred Artificial Intelligence",
+      "english_title": "Human-Centred Artificial Intelligence \nModule level, (optional): \n \nAbbreviation: \nHCAI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 3rd/4th semester \nTerm: \n--- \nModule coordinator:  \nProf. Dr. Ernesto De Luca \nLecturer(s): \nProf. Dr. Ernesto De Luca",
+      "matched_keywords": [
+        "computer vision and natural language processing",
+        "deep learning and neural networks",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        79.5,
+        68.0,
+        100.0
+      ],
+      "max_score": 100.0,
+      "language": "English",
+      "description_snippet": ":  \n \nHuman-Centred AI principles; Responsible AI principles; \nIntroduction to fairness and explainability; Ethics in AI; \nApplications of HCAI methods on deep ..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Human-Centred Natural Language Processing",
+      "english_title": "Human-Centred Natural Language Processing \nModule level, (optional): \n \nAbbreviation: \nHCNLP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Ernesto William De Luca \nLecturer(s): \nProf. Dr.-Ing. Ernesto William De Luca",
+      "matched_keywords": [
+        "computer vision and natural language processing",
+        "computer vision and natural language processing",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        61.8,
+        79.5,
+        100.0
+      ],
+      "max_score": 100.0,
+      "language": "English",
+      "description_snippet": ":  \nHuman-Centred NLP principles; Language Representation and \nLanguage Engineering, NLP Models (rule-based, count-based, \nprediction-based); Dataset Creation a..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Neural-symbolic integration",
+      "english_title": "Neural-symbolic integration \nModule level, (optional): \n \nAbbreviation: \nNeuroSymbV \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Till Mossakowski \nLecturer(s): \nProf. Till Mossakowski",
+      "matched_keywords": [
+        "deep learning and neural networks"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        100.0
+      ],
+      "max_score": 100.0,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge of the limitations of neural and of symbolic \napproachesKnowledge of different neural-symbolic \narchitecturesAbility to choose and document an arc..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Advanced Topics in Machine Learning",
+      "english_title": "Advanced Topics in Machine Learning \nModule level, (optional): \n \nAbbreviation: \nATiML \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester; M.Sc. from 2nd semester; M.Sc. from \n3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Data and Knowledge Engineering \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "machine learning algorithms and theory",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        53.3,
+        89.9,
+        59.3,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \nIn-depth understanding of selected problems and concepts of \nmachine learning methods \nKnowledge of advanced data ..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Applied Discrete Modeling",
+      "english_title": "Applied Discrete Modeling \nModule level, (optional): \n \nAbbreviation: \nADM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Simulation \nLecturer(s): \nClaudia Krull",
+      "matched_keywords": [
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \n \nParticipants are familiar with Markov chains and selected \napplications and solution methods \nParticipants are familiar with non-Markovian stochastic \npro..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Clean Code Development",
+      "english_title": "Clean Code Development \nModule level, (optional): \n \nAbbreviation: \nCCD \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Software Engineering \nLecturer(s): \nFrank Ortmeier, FIN-IKS",
+      "matched_keywords": [
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nPrinciples of clean code development \nUse of various tools and practices \nPractical experience in the use of professional methods in \nsoftware engineering \n..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Computational Intelligence in Games",
+      "english_title": "Computational Intelligence in Games \nModule level, (optional): \n \nAbbreviation: \nCIG \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        53.3,
+        66.7,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nApplication of computational intelligence methods for problem \nsolving in computer gamesAbility to develop algorithms..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Data Science with R",
+      "english_title": "Data Science with R \nModule level, (optional): \n \nAbbreviation: \nDataSciR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Information Systems II - \nKnowledge Management & Discovery \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "programming for ai",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        53.3,
+        75.9,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \n \nThe course is about learning from data to perform predictions \nand obtain useful insights. In the seminar, we will use the \nstatistical programming langua..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Eudaimonic Interaction Design",
+      "english_title": "Eudaimonic Interaction Design \nModule level, (optional): \n \nAbbreviation: \nEID \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Ernesto William De Luca \nLecturer(s): \nProf. Dr.-Ing. Ernesto William De Luca, Julian Marvin J\u00f6rs",
+      "matched_keywords": [
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Information Retrieval",
+      "english_title": "Information Retrieval \nModule level, (optional): \n \nAbbreviation: \nIR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Andreas N\u00fcrnberger \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
+      "matched_keywords": [
+        "machine learning algorithms and theory",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        53.8,
+        53.8,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nIn-depth understanding of information retrieval \nproblemsKnowledge of data structures and algorithms that \nenable students to independently develop and eval..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Introduction to Computer Science for Engineers",
+      "english_title": "Introduction to Computer Science for Engineers \nModule level, (optional): \n \nAbbreviation: \nICSE \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nDr.-Ing. Christian Braune \nLecturer(s): \nDr.-Ing. Christian Braune",
+      "matched_keywords": [
+        "computer vision and natural language processing",
+        "data science and big data analytics",
+        "machine learning algorithms and theory",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        61.8,
+        69.6,
+        53.8,
+        53.8,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \n \nKnowledge and Understanding: \n- Understand the principles of object-oriented programming. \n- Understand and recognize the fundamental data structures \nsuc..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Knowledge Engineering and Digital Humanities",
+      "english_title": "Knowledge Engineering and Digital Humanities \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Ernesto De Luca \nLecturer(s): \nProf. Dr. Ernesto De Luca",
+      "matched_keywords": [
+        "computer vision and natural language processing",
+        "data science and big data analytics",
+        "data science and big data analytics",
+        "deep learning and neural networks",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents",
+        "contents",
+        "contents",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        79.5,
+        57.1,
+        69.6,
+        53.3,
+        69.0,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \n \nplanning and development of digital infrastructures \ninterdisciplinary work in big teams \nvisualization of Big Data  \nDigital Humanities project planning ..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Maschinelles Lernen",
+      "english_title": "Machine Learning \nModule level, (optional): \n \nAbbreviation: \nML \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Data and Knowledge Engineering \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "deep learning and neural networks",
+        "machine learning algorithms and theory",
+        "machine learning algorithms and theory",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        73.1,
+        73.1,
+        75.4,
+        89.9,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nIntroduction to function learning; introduction to concept \nspaces and concept learning; algorithms for instance-based \nlearning and cluster analysis; algor..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Parallel Programming - M",
+      "english_title": "Parallel Programming - M \nModule level, (optional): \n \nAbbreviation: \nPP-M \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Michael Kuhn \nLecturer(s): \nProf. Dr. Michael Kuhn",
+      "matched_keywords": [
+        "programming for ai",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        90.9,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nParticipants will learn how to create parallel programs using \nvarious programming approaches, how to execute them and \nhow to optimize their execution. In ..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Parallel Storage Systems",
+      "english_title": "Parallel Storage Systems \nModule level, (optional): \n \nAbbreviation: \nPSS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Michael Kuhn \nLecturer(s): \nProf. Dr. Michael Kuhn",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "programming for ai",
+        "programming for ai"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        53.3,
+        75.9,
+        90.9
+      ],
+      "max_score": 90.9,
+      "language": "English",
+      "description_snippet": ":  \nParticipants will learn how parallel applications perform I/O \nusing different programming concepts and how I/O can be \noptimized. Additionally, they will g..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Seminar Computational Intelligence",
+      "english_title": "Seminar Computational Intelligence \nModule level, (optional): \n \nAbbreviation: \nSCI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Computational Intelligence \nLecturer(s): \nProf. Dr.-Ing. habil. Sanaz Mostaghim",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "machine learning algorithms and theory"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        53.3,
+        89.9
+      ],
+      "max_score": 89.9,
+      "language": "English",
+      "description_snippet": ":  \n- Capability to individually understand and research complex \nresearch topics \n- Writing of Scientific Articles \n- Presentation of Scientific Talks..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Algorithm Engineering",
+      "english_title": "Algorithm Engineering \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Theoretical Computer Science / Algorithmic \nGeometry \nLecturer(s): \nProf. Dr. Stefan Schirra",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "machine learning algorithms and theory"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        53.3,
+        88.2
+      ],
+      "max_score": 88.2,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & acquired skills: \nThe aim of algorithm engineering is to bridge the gap that often \nexists between the theory and practice of algorith..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Deep Learning for Computer Vision",
+      "english_title": "Deep Learning for Computer Vision \nModule level, (optional): \n \nAbbreviation: \nDLCV \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Image Processing/Image Understanding \nLecturer(s): \nProf. Dr. Vasileios Belagiannis",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "deep learning and neural networks",
+        "machine learning algorithms and theory"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        84.2,
+        84.2,
+        69.0
+      ],
+      "max_score": 84.2,
+      "language": "English",
+      "description_snippet": ":  \nLearning of the basics of deep learning with focus on computer \nvision.Principles of neural networks, including convolutional \nneural networks, recurrent ne..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Deep Learning for Weather and Climate",
+      "english_title": "Deep Learning for Weather and Climate \nModule level, (optional): \n \nAbbreviation: \nDLWC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Christian Lessig \nLecturer(s): \nProf. Dr. Christian Lessig",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "deep learning and neural networks"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        68.0,
+        84.2
+      ],
+      "max_score": 84.2,
+      "language": "English",
+      "description_snippet": ":  \n \nClimate change is one of the fundamental challenges facing \nhumanity. Existing climate simulations provide important \ninsights into how humans affect and ..."
+    },
+    {
+      "goal": "AI/ML Developer",
+      "course_title": "Scientific Machine Learning for Simulations",
+      "english_title": "Scientific Machine Learning for Simulations \nModule level, (optional): \n \nAbbreviation: \nSMLfS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nJunior Professorship for Real-Time Computer Graphics \nLecturer(s): \nJunior Prof. Dr. Christian Lessig, Prof. Dr. Thomas Richter (FMA)",
+      "matched_keywords": [
+        "deep learning and neural networks",
+        "deep learning and neural networks",
+        "machine learning algorithms and theory"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        84.2,
+        62.5,
+        59.3
+      ],
+      "max_score": 84.2,
+      "language": "English",
+      "description_snippet": ":  \nIn the seminar we will discuss recent papers from the scientific \nmachine learning literature on the use of neural networks (and \nrelated machine learning t..."
+    }
+  ],
+  "DevOps Engineer": [
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Cloud School",
+      "english_title": "Cloud School \nModule level, (optional): \n \nAbbreviation: \nCS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester \nTerm: \nevery semester \nModule coordinator:  \nProfessorship for Information Systems I \nLecturer(s): \nProfessorship for Information Systems I",
+      "matched_keywords": [
+        "cloud computing",
+        "cloud computing",
+        "infrastructure as code",
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "learning_outcomes",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        100.0,
+        100.0,
+        77.8,
+        61.2
+      ],
+      "max_score": 100.0,
+      "language": "English",
+      "description_snippet": ":  \n \nUnderstanding of the cloud computing paradigm, including \ncharacteristics, service and deployment models, workloads and \nrevenue models \nUnderstanding of ..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Software Defined Networking",
+      "english_title": "Software Defined Networking \nModule level, (optional): \n \nAbbreviation: \nSDN \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nFIN: Chair of Networks and Distributed Systems \nLecturer(s): \nProf. Dr. David Hausheer",
+      "matched_keywords": [
+        "infrastructure as code",
+        "software development and scripting",
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        87.2,
+        52.2,
+        52.2
+      ],
+      "max_score": 87.2,
+      "language": "English",
+      "description_snippet": ":  \nStudents gain an in-depth insight into Software Defined \nNetworking and its applications. \n \n\nEnglish courtesy translation.  \nThe German version is legally ..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Clean Code Development",
+      "english_title": "Clean Code Development \nModule level, (optional): \n \nAbbreviation: \nCCD \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Software Engineering \nLecturer(s): \nFrank Ortmeier, FIN-IKS",
+      "matched_keywords": [
+        "software development and scripting",
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        82.8,
+        82.8
+      ],
+      "max_score": 82.8,
+      "language": "English",
+      "description_snippet": ":  \nPrinciples of clean code development \nUse of various tools and practices \nPractical experience in the use of professional methods in \nsoftware engineering \n..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Computer-Assisted Surgery",
+      "english_title": "Computer-Assisted Surgery \nModule level, (optional): \n \nAbbreviation: \nCAS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nChair for Computer-Assisted Surgery \nLecturer(s): \nChristian Hansen",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        82.8
+      ],
+      "max_score": 82.8,
+      "language": "English",
+      "description_snippet": ":  \nThe following topics are addressed: \nFundamentals of Intraoperative Imaging \nFundamentals of Surgical Visualization \nComputer-Assisted Surgery Planning \nSur..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Scrum-in-Practice",
+      "english_title": "Scrum-in-Practice \nModule level, (optional): \n \nAbbreviation: \nSIP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Software Engineering \nLecturer(s): \nFrank Ortmeier, FIN-IKS",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        82.8
+      ],
+      "max_score": 82.8,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge of the Scrum project management method \nPractical application of agile software development methods \nGain practical experience by carrying out a p..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Software Testing",
+      "english_title": "Software Testing \nModule level, (optional): \n \nAbbreviation: \nSWT \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nPD Dr.-Ing. Sandro Schulze \nLecturer(s): \nPD Dr.-Ing. Sandro Schulze",
+      "matched_keywords": [
+        "software development and scripting",
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        52.2,
+        82.8
+      ],
+      "max_score": 82.8,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Grundlagen verteilter Sensordatenfusion",
+      "english_title": "Introduction to Distributed Sensor Data Fusion \nModule level, (optional): \n \nAbbreviation: \nSDF \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Benjamin Noack \nLecturer(s): \nProf. Dr. Benjamin Noack",
+      "matched_keywords": [
+        "infrastructure as code",
+        "infrastructure as code"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        77.8,
+        77.8
+      ],
+      "max_score": 77.8,
+      "language": "English",
+      "description_snippet": ":  \nYou have an overview of basic problems and methods in \ndesigning distributed sensor systems and their applications. \n You understand how to process data in ..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Computational Fluid Dynamics",
+      "english_title": "Computational Fluid Dynamics \nModule level, (optional): \n \nAbbreviation: \nCFD \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessor for Fluid Dynamics \nLecturer(s): \nDr.-Ing. G. Janiga",
+      "matched_keywords": [
+        "cloud computing"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        75.0
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \nStudents participating in this course will get both a solid \ntheoretical knowledge of Computational Fluid Dynamics (CFD) \nas well as a practical experience ..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Human-Centred Natural Language Processing",
+      "english_title": "Human-Centred Natural Language Processing \nModule level, (optional): \n \nAbbreviation: \nHCNLP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Ernesto William De Luca \nLecturer(s): \nProf. Dr.-Ing. Ernesto William De Luca",
+      "matched_keywords": [
+        "cloud computing"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        75.0
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \nHuman-Centred NLP principles; Language Representation and \nLanguage Engineering, NLP Models (rule-based, count-based, \nprediction-based); Dataset Creation a..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Medizinische Visualisierung",
+      "english_title": "Medical Visualization \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Visualization \nLecturer(s): \nProf. Dr. Bernhard Preim",
+      "matched_keywords": [
+        "cloud computing"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        75.0
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \nUsing the example of medical applications, this lecture provides \nbasic knowledge about how large amounts of data can be \nvisualized, explored and specifica..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Multimedia Retrieval",
+      "english_title": "Multimedia Retrieval \nModule level, (optional): \n \nAbbreviation: \nMIR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \n \nModule coordinator:  \nProfessorship for Data and Knowledge Engineering \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
+      "matched_keywords": [
+        "cloud computing"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        75.0
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \nBasic understanding of searching in collections of multimedia \ndata \nKnowledge of information retrieval concepts \n..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Swarm Intelligence",
+      "english_title": "Swarm Intelligence \nModule level, (optional): \n \nAbbreviation: \nSI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "cloud computing"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        75.0
+      ],
+      "max_score": 75.0,
+      "language": "English",
+      "description_snippet": ":  \nApplication of swarm intelligence methods for problem solving \n(optimization and distributed systems)Ability to develop swarm \nintelligence algorithms..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Advanced Database Models",
+      "english_title": "Advanced Database Models \nModule level, (optional): \n \nAbbreviation: \nADBM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester; M.Sc. from 2nd semester; M.Sc. from \n3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Eike Schallehn",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Augmented & Virtual Reality",
+      "english_title": "Augmented & Virtual Reality \nModule level, (optional): \n \nAbbreviation: \nAVR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Christian Hansen \nLecturer(s): \nProf. Dr. Christian Hansen",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \nFollowing topics in the field of VR/AR are addressed: \n- Introduction to VR/AR systems \n- Perceptual aspects \n- Input devices \n- Output devices \n- AR compon..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Evolutionary Multi-Objective Optimization",
+      "english_title": "Evolutionary Multi-Objective Optimization \nModule level, (optional): \n \nAbbreviation: \nEMO \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Computational Intelligence \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \n- Application of computational intelligence methods for \nProblem solving in multi-criteria optimization \n- Ability to develop the algorithms \n- Sound knowle..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Funktionale Programmierung - fortgeschrittene Konzepte und",
+      "english_title": "Functional Programming - advanced concepts and applications \nModule level, (optional): \n \nAbbreviation: \nFP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr. Till Mossakowski \nLecturer(s): \nProf. Dr. Till Mossakowski",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \n \nIn-depth understanding of concepts of functional programming \nIn-depth knowledge of Haskell insights into the role of \nfunctional concepts in other progra..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "HealthTEC Innovation Design",
+      "english_title": "HealthTEC Innovation Design \nModule level, (optional): \n \nAbbreviation: \nHTID \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \n--- \nModule coordinator:  \nProf. Dr. Michael Friebe \nLecturer(s): \nProf. Dr. Michael Friebe",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & skills to be acquired: - Stanford Biodesign \nPrinciple - Identify / Invent / Implement so-called Unmet Clinical \nNeed - Teaching innov..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Knowledge Engineering and Digital Humanities",
+      "english_title": "Knowledge Engineering and Digital Humanities \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 3rd/4th semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Ernesto De Luca \nLecturer(s): \nProf. Dr. Ernesto De Luca",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \n \nplanning and development of digital infrastructures \ninterdisciplinary work in big teams \nvisualization of Big Data  \nDigital Humanities project planning ..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Parallel Storage Systems",
+      "english_title": "Parallel Storage Systems \nModule level, (optional): \n \nAbbreviation: \nPSS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Michael Kuhn \nLecturer(s): \nProf. Dr. Michael Kuhn",
+      "matched_keywords": [
+        "cloud computing",
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        50.0,
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \nParticipants will learn how parallel applications perform I/O \nusing different programming concepts and how I/O can be \noptimized. Additionally, they will g..."
+    },
+    {
+      "goal": "DevOps Engineer",
+      "course_title": "Simulation Project",
+      "english_title": "Simulation Project \nModule level, (optional): \n \nAbbreviation: \nSimProj \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 2nd semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Simulation \nLecturer(s): \nClaudia Krull",
+      "matched_keywords": [
+        "software development and scripting"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        61.2
+      ],
+      "max_score": 61.2,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \nAbility to work in a team, project work, milestone orientation \nResponsibility, leadership, delegation, coordinati..."
+    }
+  ],
+  "Business Analyst": [
+    {
+      "goal": "Business Analyst",
+      "course_title": "Data Science with R",
+      "english_title": "Data Science with R \nModule level, (optional): \n \nAbbreviation: \nDataSciR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Information Systems II - \nKnowledge Management & Discovery \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "matched_keywords": [
+        "business german and intercultural communication",
+        "financial and management accounting",
+        "predictive analytics and data modeling",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        67.6,
+        57.1,
+        84.8,
+        57.1
+      ],
+      "max_score": 84.8,
+      "language": "English",
+      "description_snippet": ":  \n \nThe course is about learning from data to perform predictions \nand obtain useful insights. In the seminar, we will use the \nstatistical programming langua..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "HealthTEC Innovation Design",
+      "english_title": "HealthTEC Innovation Design \nModule level, (optional): \n \nAbbreviation: \nHTID \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \n--- \nModule coordinator:  \nProf. Dr. Michael Friebe \nLecturer(s): \nProf. Dr. Michael Friebe",
+      "matched_keywords": [
+        "business german and intercultural communication",
+        "business intelligence and data warehousing"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        82.5,
+        83.3
+      ],
+      "max_score": 83.3,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & skills to be acquired: - Stanford Biodesign \nPrinciple - Identify / Invent / Implement so-called Unmet Clinical \nNeed - Teaching innov..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Multimedia and Security",
+      "english_title": "Multimedia and Security \nModule level, (optional): \n \nAbbreviation: \nMMSEC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \n \nModule coordinator:  \nProfessorship of Applied Computer Science / Multimedia and \nSecurity \nLecturer(s): \nProfessorship of Applied Computer Science / Multimedia and \nSecurity",
+      "matched_keywords": [
+        "business german and intercultural communication",
+        "financial and management accounting",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        67.6,
+        83.3,
+        57.1
+      ],
+      "max_score": 83.3,
+      "language": "English",
+      "description_snippet": ":  \nLearning objectives & acquired skills: \nThe student should be able to recognize and solve security \nproblems in multimedia applications. To this end, he/she..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Biometrics and Security",
+      "english_title": "Biometrics and Security \nModule level, (optional): \n \nAbbreviation: \nBIOSEC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Applied Computer Science / Multimedia and \nSecurity \nLecturer(s): \nProfessorship of Applied Computer Science / Multimedia and \nSecurity",
+      "matched_keywords": [
+        "business german and intercultural communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        67.6
+      ],
+      "max_score": 67.6,
+      "language": "English",
+      "description_snippet": ":  \nAcquisition of a basic understanding of security aspects in \nbiometric systems and the ability to assess themAbility to create \nconcepts for the constructio..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Introduction to Robotics",
+      "english_title": "Introduction to Robotics \nModule level, (optional): \n \nAbbreviation: \nItR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester \nTerm: \nSummer semester \nModule coordinator:  \nDr. Ch. Steup \nLecturer(s): \nDr. Ch. Steup",
+      "matched_keywords": [
+        "business german and intercultural communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        67.6
+      ],
+      "max_score": 67.6,
+      "language": "English",
+      "description_snippet": ":  \n- Understanding the Structure of Complex Robotic Systems \n- Building Complex Robots and Robotic Systems from Building \nBlocks \n- Aspects of Robotic Systems ..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Mobilkommunikation",
+      "english_title": "Mobile Communication \nModule level, (optional): \n \nAbbreviation: \nMobCom \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Computer Engineering \nLecturer(s): \nProf. Dr. Mesut G\u00fcne\u015f",
+      "matched_keywords": [
+        "business german and intercultural communication"
+      ],
+      "matched_fields": [
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        67.6
+      ],
+      "max_score": 67.6,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives & acquired skills: \n- Students are able to understand the differences between \nclassic fixed networks and mobile wireless networks and..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Software Testing",
+      "english_title": "Software Testing \nModule level, (optional): \n \nAbbreviation: \nSWT \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nPD Dr.-Ing. Sandro Schulze \nLecturer(s): \nPD Dr.-Ing. Sandro Schulze",
+      "matched_keywords": [
+        "business german and intercultural communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        67.6
+      ],
+      "max_score": 67.6,
+      "language": "English",
+      "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Fuzzy-Systeme",
+      "english_title": "Fuzzy Systems \nModule level, (optional): \n \nAbbreviation: \nFS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nFIN: Chair of Computational Intelligence \nLecturer(s): \nProf. Dr. Rudolf Kruse",
+      "matched_keywords": [
+        "business intelligence and data warehousing",
+        "predictive analytics and data modeling"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes"
+      ],
+      "match_scores": [
+        66.7,
+        61.8
+      ],
+      "max_score": 66.7,
+      "language": "English",
+      "description_snippet": ":  \n \nApplication of adequate modeling techniques for the \nDesign of fuzzy systems \nApplication of the methods of fuzzy data analysis and fuzzy rule \nlearning \n..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Seminar Predictive Maintenance",
+      "english_title": "Seminar Predictive Maintenance \nModule level, (optional): \n \nAbbreviation: \nPM \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nevery semester \nModule coordinator:  \nMyra Spiliopoulou, Benjamin Noack \nLecturer(s): \nMyra Spiliopoulou, Benjamin Noack",
+      "matched_keywords": [
+        "predictive analytics and data modeling"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        66.7
+      ],
+      "max_score": 66.7,
+      "language": "English",
+      "description_snippet": ":  \n- Independently research complex topics \n- Write clear scientific articles \n- Present informative and understandable scientific talks \n\nEnglish courtesy tra..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Visual Analytics",
+      "english_title": "Visual Analytics \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Applied Computer Science / Visualization \nLecturer(s): \nProf. Dr.-Ing. Bernhard Preim",
+      "matched_keywords": [
+        "financial and management accounting",
+        "predictive analytics and data modeling",
+        "predictive analytics and data modeling"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        54.2,
+        64.3,
+        64.3
+      ],
+      "max_score": 64.3,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives and skills to be acquired: \nThis lecture teaches how large, high-dimensional, partially \nunreliable and incomplete data can be analyze..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Visual Analytics in Health Care",
+      "english_title": "Visual Analytics in Health Care \nModule level, (optional): \n \nAbbreviation: \nVAHC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr.-Ing. Bernhard Preim Dr. Gabriel Mistelbauer \nLecturer(s): \nProf. Dr.-Ing. Bernhard Preim Dr. Gabriel Mistelbauer",
+      "matched_keywords": [
+        "predictive analytics and data modeling"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        64.3
+      ],
+      "max_score": 64.3,
+      "language": "English",
+      "description_snippet": ":  \n \nLearning objectives and competences to be acquired: This \nseminar teaches how combinations of data analysis (clustering, \nregression analysis, classificat..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Applied Deep Learning",
+      "english_title": "Applied Deep Learning \nModule level, (optional): \n \nAbbreviation: \nADL \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Sebastian Stober \nLecturer(s): \nProf. Sebastian Stober",
+      "matched_keywords": [
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \n- confidently apply DL techniques to develop a solution for a \ngiven problem \n- follow recent DL publications and critically assess their \ncontributions \n- ..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Estimation for Autonomous Mobile Robots",
+      "english_title": "Estimation for Autonomous Mobile Robots \nModule level, (optional): \n \nAbbreviation: \nAMR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Benjamin Noack \nLecturer(s): \nProf. Benjamin Noack",
+      "matched_keywords": [
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \n \nYou have an overview of basic problems and methods in \nparameter and state estimation for mobile systems.You \nunderstand how to develop kinematic models f..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Evolutionary Multi-Objective Optimization",
+      "english_title": "Evolutionary Multi-Objective Optimization \nModule level, (optional): \n \nAbbreviation: \nEMO \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Computational Intelligence \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "business german and intercultural communication",
+        "process optimization and management",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents",
+        "learning_outcomes",
+        "contents"
+      ],
+      "match_scores": [
+        57.6,
+        51.1,
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \n- Application of computational intelligence methods for \nProblem solving in multi-criteria optimization \n- Ability to develop the algorithms \n- Sound knowle..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Introduction to Deep Learning",
+      "english_title": "Introduction to Deep Learning \nModule level, (optional): \n \nAbbreviation: \nIDL \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 5th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr. Sebastian Stober \nLecturer(s): \nProf. Dr. Sebastian Stober",
+      "matched_keywords": [
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \n- confidently apply DL techniques to develop a solution for a \ngiven problem \n- follow recent DL publications and critically assess their \ncontributions \n- ..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Seminar Computational Intelligence",
+      "english_title": "Seminar Computational Intelligence \nModule level, (optional): \n \nAbbreviation: \nSCI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Computational Intelligence \nLecturer(s): \nProf. Dr.-Ing. habil. Sanaz Mostaghim",
+      "matched_keywords": [
+        "business intelligence and data warehousing",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        55.2,
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \n- Capability to individually understand and research complex \nresearch topics \n- Writing of Scientific Articles \n- Presentation of Scientific Talks..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Swarm Intelligence",
+      "english_title": "Swarm Intelligence \nModule level, (optional): \n \nAbbreviation: \nSI \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nIntelligent systems \nLecturer(s): \nProf. Dr.-Ing. Sanaz Mostaghim",
+      "matched_keywords": [
+        "business intelligence and data warehousing",
+        "business intelligence and data warehousing",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        55.2,
+        55.2,
+        62.7
+      ],
+      "max_score": 62.7,
+      "language": "English",
+      "description_snippet": ":  \nApplication of swarm intelligence methods for problem solving \n(optimization and distributed systems)Ability to develop swarm \nintelligence algorithms..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Deep Learning for Weather and Climate",
+      "english_title": "Deep Learning for Weather and Climate \nModule level, (optional): \n \nAbbreviation: \nDLWC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProf. Dr. Christian Lessig \nLecturer(s): \nProf. Dr. Christian Lessig",
+      "matched_keywords": [
+        "predictive analytics and data modeling"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        61.8
+      ],
+      "max_score": 61.8,
+      "language": "English",
+      "description_snippet": ":  \n \nClimate change is one of the fundamental challenges facing \nhumanity. Existing climate simulations provide important \ninsights into how humans affect and ..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Business Informatics Research: perspectives and outcomes",
+      "english_title": "Business Informatics Research: perspectives and outcomes \nModule level, (optional): \n \nAbbreviation: \nBIR:PaO \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nevery semester \nModule coordinator:  \nProfessorship for Information Systems I \nLecturer(s): \nProfessorship for Information Systems I",
+      "matched_keywords": [
+        "business german and intercultural communication"
+      ],
+      "matched_fields": [
+        "contents"
+      ],
+      "match_scores": [
+        57.6
+      ],
+      "max_score": 57.6,
+      "language": "English",
+      "description_snippet": ":  \nIn-depth knowledge of selected research topics in business \ninformatics..."
+    },
+    {
+      "goal": "Business Analyst",
+      "course_title": "Cloud School",
+      "english_title": "Cloud School \nModule level, (optional): \n \nAbbreviation: \nCS \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester \nTerm: \nevery semester \nModule coordinator:  \nProfessorship for Information Systems I \nLecturer(s): \nProfessorship for Information Systems I",
+      "matched_keywords": [
+        "business intelligence and data warehousing",
+        "financial and management accounting",
+        "process optimization and management"
+      ],
+      "matched_fields": [
+        "learning_outcomes",
+        "contents",
+        "contents"
+      ],
+      "match_scores": [
+        57.6,
+        57.1,
+        57.1
+      ],
+      "max_score": 57.6,
+      "language": "English",
+      "description_snippet": ":  \n \nUnderstanding of the cloud computing paradigm, including \ncharacteristics, service and deployment models, workloads and \nrevenue models \nUnderstanding of ..."
+    }
+  ]
+}
