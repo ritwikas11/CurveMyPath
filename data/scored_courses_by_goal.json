@@ -80,9 +80,9 @@
         "contents"
       ],
       "match_scores": [
-        80.0
+        60.0
       ],
-      "max_score": 80.0,
+      "max_score": 60.0,
       "language": "English",
       "description_snippet": ":  \nApplication of computational intelligence methods for problem \nsolving in computer gamesAbility to develop algorithms..."
     },
@@ -184,9 +184,9 @@
         "contents"
       ],
       "match_scores": [
-        73.1
+        80.0
       ],
-      "max_score": 73.1,
+      "max_score": 80.0,
       "language": "English",
       "description_snippet": ":  \nIn the lecture students will be made familiar with most recent \ntechnological developments in data management. The first goal \nis to enable the attendees to..."
     },
@@ -239,11 +239,11 @@
         "contents"
       ],
       "match_scores": [
-        73.1,
+        57.1,
         55.0,
         52.3
       ],
-      "max_score": 73.1,
+      "max_score": 57.1,
       "language": "English",
       "description_snippet": ":  \nAn understanding of 3D scanning in industrial metrologyAn \nunderstanding of 3D data structures and processing algorithms \nAn understanding of algorithms tha..."
     },
@@ -388,10 +388,10 @@
         "contents"
       ],
       "match_scores": [
-        66.7,
+        80.0,
         57.1
       ],
-      "max_score": 66.7,
+      "max_score": 80.0,
       "language": "English",
       "description_snippet": ":  \n \nLearning objectives & acquired skills: \nIn-depth understanding of selected problems and concepts of \nmachine learning methods \nKnowledge of advanced data ..."
     },
@@ -406,9 +406,9 @@
         "contents"
       ],
       "match_scores": [
-        66.7
+        81.1
       ],
-      "max_score": 66.7,
+      "max_score": 81.1,
       "language": "English",
       "description_snippet": ":  \n- confidently apply DL techniques to develop a solution for a \ngiven problem \n- follow recent DL publications and critically assess their \ncontributions \n- ..."
     }
@@ -510,25 +510,25 @@
     },
     {
       "goal": "Product Owner/Scrum Master",
-      "course_title": "Biometrics and Security",
-      "english_title": "Biometrics and Security \nModule level, (optional): \n \nAbbreviation: \nBIOSEC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship of Applied Computer Science / Multimedia and \nSecurity \nLecturer(s): \nProfessorship of Applied Computer Science / Multimedia and \nSecurity",
+      "course_title": "Management of Global Large IT-Systems in International Companies",
+      "english_title": "Management of Global Large IT-Systems in International \nCompanies \nModule level, (optional): \n \nAbbreviation: \nMGLIIC \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship of Practical Computer Science / Databases and \nInformation Systems \nLecturer(s): \nDr. Horstfried Läpple, Dipl. Math. Karl-Albert Bebber",
       "matched_keywords": [
-        "stakeholder engagement and communication"
+        "Agile Methodologies And Scrum Framework"
       ],
       "matched_fields": [
-        "contents"
+        "learning_outcomes"
       ],
       "match_scores": [
-        59.6
+        91.4
       ],
-      "max_score": 59.6,
+      "max_score": 91.4,
       "language": "English",
-      "description_snippet": ":  \nAcquisition of a basic understanding of security aspects in \nbiometric systems and the ability to assess themAbility to create \nconcepts for the constructio..."
+      "description_snippet": "To gain a comprehensive understanding about to develop, to \nimplement, to operate and to phase-out of large-scale IT-\nSystems in international companies..."
     },
     {
       "goal": "Product Owner/Scrum Master",
-      "course_title": "Data Science with R",
-      "english_title": "Data Science with R \nModule level, (optional): \n \nAbbreviation: \nDataSciR \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nChair of Applied Computer Science / Information Systems II - \nKnowledge Management & Discovery \nLecturer(s): \nProf. Myra Spiliopoulou",
+      "course_title": "Business Informatics Research: perspectives and outcomes",
+      "english_title": "Business Informatics Research: perspectives and outcomes \nModule level, (optional): \n \nAbbreviation: \nBIR:PaO \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nevery semester \nModule coordinator:  \nProfessorship for Information Systems I \nLecturer(s): \nProfessorship for Information Systems I",
       "matched_keywords": [
         "stakeholder engagement and communication"
       ],
@@ -536,11 +536,11 @@
         "contents"
       ],
       "match_scores": [
-        59.6
+        85.6
       ],
-      "max_score": 59.6,
+      "max_score": 85.6,
       "language": "English",
-      "description_snippet": ":  \n \nThe course is about learning from data to perform predictions \nand obtain useful insights. In the seminar, we will use the \nstatistical programming langua..."
+      "description_snippet": ":  \nIn-depth knowledge of selected research topics in business \ninformatics..."
     },
     {
       "goal": "Product Owner/Scrum Master",
@@ -1298,9 +1298,9 @@
         "learning_outcomes"
       ],
       "match_scores": [
-        82.8
+        52.8
       ],
-      "max_score": 82.8,
+      "max_score": 52.8,
       "language": "English",
       "description_snippet": ":  \nThe following topics are addressed: \nFundamentals of Intraoperative Imaging \nFundamentals of Surgical Visualization \nComputer-Assisted Surgery Planning \nSur..."
     },
@@ -1354,10 +1354,10 @@
         "contents"
       ],
       "match_scores": [
-        77.8,
-        77.8
+        57.8,
+        57.8
       ],
-      "max_score": 77.8,
+      "max_score": 57.8,
       "language": "English",
       "description_snippet": ":  \nYou have an overview of basic problems and methods in \ndesigning distributed sensor systems and their applications. \n You understand how to process data in ..."
     },
@@ -1397,8 +1397,8 @@
     },
     {
       "goal": "DevOps Engineer",
-      "course_title": "Medizinische Visualisierung",
-      "english_title": "Medical Visualization \nModule level, (optional): \n \nAbbreviation: \n \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nSummer semester \nModule coordinator:  \nProfessorship for Visualization \nLecturer(s): \nProf. Dr. Bernhard Preim",
+      "course_title": "VLBA – Cloud DevOps Technologies",
+      "english_title": "VLBA - Cloud DevOps Technologies \nModule level, (optional): \n \nAbbreviation: \nVLBA-CDOT \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nM.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr. Klaus Turowski \nLecturer(s): \nProf. Dr. Klaus Turowski",
       "matched_keywords": [
         "cloud computing"
       ],
@@ -1406,11 +1406,11 @@
         "contents"
       ],
       "match_scores": [
-        75.0
+        85.0
       ],
-      "max_score": 75.0,
+      "max_score": 85.0,
       "language": "English",
-      "description_snippet": ":  \nUsing the example of medical applications, this lecture provides \nbasic knowledge about how large amounts of data can be \nvisualized, explored and specifica..."
+      "description_snippet": ":  \nIn view of highly networked applications, big data and cloud \ncomputing, the careful planning and construction of \narchitectures and landscapes of the corresponding information \nsystems is more important than ever..."
     },
     {
       "goal": "DevOps Engineer",
@@ -1474,9 +1474,9 @@
         "contents"
       ],
       "match_scores": [
-        61.2
+        77.2
       ],
-      "max_score": 61.2,
+      "max_score": 77.2,
       "language": "English",
       "description_snippet": ":  \nFollowing topics in the field of VR/AR are addressed: \n- Introduction to VR/AR systems \n- Perceptual aspects \n- Input devices \n- Output devices \n- AR compon..."
     },

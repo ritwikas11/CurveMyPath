@@ -40,7 +40,7 @@ for goal, data in goal_keywords.items():
                 if not field_text:
                     continue
                 score = fuzz.token_set_ratio(keyword, field_text)
-                if score >= 50:  # optional threshold to avoid noise
+                if score >= 50:  #threshold to avoid noise
                     matched_keywords.append(keyword)
                     matched_fields.append(field_name)
                     match_scores.append(round(score, 1))

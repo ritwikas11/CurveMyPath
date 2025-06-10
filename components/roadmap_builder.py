@@ -5,8 +5,8 @@ import os
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 
 @st.cache_data
-def load_scored_courses():
-    with open(os.path.join(DATA_DIR, "scored_courses_by_goal.json"), "r") as f:
+def load_explained_courses():
+    with open(os.path.join(DATA_DIR, "explained_courses_by_goal.json"), "r") as f:
         return json.load(f)
 
 @st.cache_data
@@ -17,37 +17,39 @@ def load_cleaned_roadmap():
 def display_ai_roadmap(goal):
     st.markdown(f"### 🚀 Generating Roadmap for: `{goal}`")
 
-    all_matches = load_scored_courses()
+    all_matches = load_explained_courses()
     roadmap = load_cleaned_roadmap()
 
     goal_courses = all_matches.get(goal, [])
-    top_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[:8]
-    more_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[8:13]
+    top_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[:10]
+    more_courses = sorted(goal_courses, key=lambda x: -x["max_score"])[10:15]
 
     if not top_courses:
         st.warning("No matching English courses found for this goal.")
         return
 
     # OVGU COURSES
-    st.markdown("#### 📚 Top 8 OVGU Courses")
+    st.markdown("#### 📚 Top 10 OVGU Courses")
     for i, course in enumerate(top_courses, start=1):
-        keywords = ", ".join(course.get("matched_keywords", []))
-        st.markdown(f"**{i}. {course['course_title']}**  \n"
-                    f"*Match Score:* `{course['max_score']}%`  \n"
-                    f"*Matched Keywords:* `{keywords}`")
+        explanation = course.get("explanation", "")
+        st.markdown(
+            f"**{i}. {course['course_title']}**  \n"
+            f"*Match Score:* `{course['max_score']}%`  \n"
+            f"**Why this course?** {explanation}"
+        )
         st.markdown("---")
 
     # EXPLORE MORE
     if more_courses:
         with st.expander("🔍 Click to view 5 additional relevant subjects (optional)"):
             st.markdown("#### 🧭 Additional Relevant Courses")
-            for i, course in enumerate(more_courses, start=9):
-                keywords = ", ".join(course.get("matched_keywords", []))
-                st.markdown(f"**{i}. {course['course_title']}**  \n"
-                            f"*Match Score:* `{course['max_score']}%`  \n"
-                            f"*Matched Keywords:* `{keywords}`  ")
+            for i, course in enumerate(more_courses, start=11):
+                explanation = course.get("explanation", "")
+                st.markdown(
+                    f"**{i}. {course['course_title']}**  \n"
+                    f"*Match Score:* `{course['max_score']}%`"
+                )
                 st.markdown("---")
-
 
     # SKILLS + TOOLS
     goal_data = roadmap.get(goal)
