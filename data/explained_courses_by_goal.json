@@ -180,11 +180,11 @@
         70.6,
         71.1,
         55.0,
-        75.0,
+        71.2,
         52.3,
         52.3
       ],
-      "max_score": 75.0,
+      "max_score": 71.2,
       "language": "English",
       "description_snippet": ":  \n \nLearning objectives and competences to be acquired: This \nseminar teaches how combinations of data analysis (clustering, \nregression analysis, classificat...",
       "explanation": "Here's a 3-sentence explanation for why the course \"Visual Analytics in Health Care\" is recommended for someone aspiring to be a Data Scientist:\n\nThis course is highly recommended for aspiring Data Scientists because it provides hands-on experience with combining data analysis techniques with interactive visualization methods, enabling effective problem-solving in healthcare settings. By covering applications in clinical medicine, public health, and epidemiology, the course demonstrates how data-driven insights can inform decision-making and drive meaningful impact in healthcare. The emphasis on real-world data, data quality, and imperfections provides a practical understanding of the challenges and limitations that Data Scientists face in their work."
@@ -307,10 +307,10 @@
         "contents"
       ],
       "match_scores": [
-        71.1,
+        75.0,
         51.3
       ],
-      "max_score": 71.1,
+      "max_score": 75.0,
       "language": "English",
       "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r...",
       "explanation": "The \"Advanced Database Models\" course is highly recommended for someone aspiring to be a Data Scientist because it equips them with the knowledge and skills to design, develop, and apply non-relational databases, which are increasingly used in big data and data analytics applications. By mastering different database models and query languages, individuals will be able to effectively process and analyze large datasets, making them a valuable asset in the field of Data Science. This course provides a solid foundation for working with advanced database systems, enabling students to tackle complex data analysis challenges."
@@ -502,9 +502,9 @@
         "contents"
       ],
       "match_scores": [
-        59.6
+        59.5
       ],
-      "max_score": 59.6,
+      "max_score": 59.5,
       "language": "English",
       "description_snippet": ":  \nLearning objectives & skills to be acquired: - Stanford Biodesign \nPrinciple - Identify / Invent / Implement so-called Unmet Clinical \nNeed - Teaching innov...",
       "explanation": "Based on the course 'HealthTEC Innovation Design', I highly recommend it for someone aspiring to be a Product Owner/Scrum Master. This is because the course teaches innovation methods, such as Blue Ocean Design, Business Model Canvas, and Value Proposition Canvas, which are essential skills for any Product Owner or Scrum Master to effectively understand market needs and develop innovative solutions that meet those needs. Additionally, the course's emphasis on understanding the healthcare system, recognizing unmet clinical needs, and developing minimal viable prototypes will help future Product Owners/Scrum Masters to identify and prioritize features for their product backlog, making informed decisions about what to build next."
@@ -547,7 +547,7 @@
     },
     {
       "goal": "Product Owner/Scrum Master",
-      "course_title": "Mobilkommunikation",
+      "course_title": "Mobile Communication",
       "english_title": "Mobile Communication \nModule level, (optional): \n \nAbbreviation: \nMobCom \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Computer Engineering \nLecturer(s): \nProf. Dr. Mesut G\u00fcne\u015f",
       "matched_keywords": [
         "business analysis and requirements gathering",
@@ -595,9 +595,9 @@
         "contents"
       ],
       "match_scores": [
-        59.6
+        59.7
       ],
-      "max_score": 59.6,
+      "max_score": 59.7,
       "language": "English",
       "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap...",
       "explanation": "I would recommend the 'Software Testing' course for someone aspiring to be a Product Owner/Scrum Master because it provides a solid foundation in testing techniques and methodologies, which are essential skills for a Scrum Master. By understanding various testing approaches, including black-box and white-box testing, test-driven design, and model-based testing, individuals can identify potential defects early on in the software development cycle, ensuring higher quality products. Additionally, this course covers communication and interpersonal skills crucial for effective collaboration with cross-functional teams."
@@ -731,7 +731,7 @@
       "max_score": 90.9,
       "language": "English",
       "description_snippet": ":  \n \nParticipants are familiar with Markov chains and selected \napplications and solution methods \nParticipants are familiar with non-Markovian stochastic \npro...",
-      "explanation": "I'd be happy to help you understand why the \"Applied Discrete Modeling\" course is recommended for someone aspiring to be an AI/ML Developer.\n\nThis course is highly relevant to AI/ML development because it teaches participants how to model and simulate complex systems using Markov chains, which are a fundamental concept in machine learning. By mastering these skills, aspiring AI/ML developers can apply their knowledge to problems from various fields, including medicine and engineering, which are critical areas of application for AI/ML technologies. This course provides hands-on experience with programming solution methods and implementing models, making it an excellent foundation for a career in AI/ML development."
+      "explanation": "This course is highly relevant to AI/ML development because it teaches participants how to model and simulate complex systems using Markov chains, which are a fundamental concept in machine learning. By mastering these skills, aspiring AI/ML developers can apply their knowledge to problems from various fields, including medicine and engineering, which are critical areas of application for AI/ML technologies. This course provides hands-on experience with programming solution methods and implementing models, making it an excellent foundation for a career in AI/ML development."
     },
     {
       "goal": "AI/ML Developer",
@@ -810,9 +810,9 @@
         "contents"
       ],
       "match_scores": [
-        90.9
+        85.9
       ],
-      "max_score": 90.9,
+      "max_score": 85.9,
       "language": "English",
       "description_snippet": ":...",
       "explanation": "I cannot provide a recommendation for the 'Eudaimonic Interaction Design' course based on the provided information. Is there anything else I can help you with?"
@@ -869,7 +869,7 @@
       "max_score": 90.9,
       "language": "English",
       "description_snippet": ":  \n \nKnowledge and Understanding: \n- Understand the principles of object-oriented programming. \n- Understand and recognize the fundamental data structures \nsuc...",
-      "explanation": "Here are 2-3 sentences explaining why the course 'Introduction to Computer Science for Engineers' is recommended for someone aspiring to be a AI/ML Developer:\n\nThe course provides foundational knowledge in computer science, including object-oriented programming, data structures (lists, trees, hash tables, graphs), and algorithms (sorting, searching, Divide-and-Conquer, Greedy, Backtracking). This solid understanding of computational principles and algorithmic design will serve as a strong foundation for more advanced topics in AI/ML development, such as machine learning modeling, deep learning frameworks, and neural networks. By mastering the basics of computer science, aspiring AI/ML developers can build a strong foundation for tackling complex problems and making informed decisions about their project work."
+      "explanation": "The course provides foundational knowledge in computer science, including object-oriented programming, data structures (lists, trees, hash tables, graphs), and algorithms (sorting, searching, Divide-and-Conquer, Greedy, Backtracking). This solid understanding of computational principles and algorithmic design will serve as a strong foundation for more advanced topics in AI/ML development, such as machine learning modeling, deep learning frameworks, and neural networks. By mastering the basics of computer science, aspiring AI/ML developers can build a strong foundation for tackling complex problems and making informed decisions about their project work."
     },
     {
       "goal": "AI/ML Developer",
@@ -906,7 +906,7 @@
     },
     {
       "goal": "AI/ML Developer",
-      "course_title": "Maschinelles Lernen",
+      "course_title": "Machine Learning",
       "english_title": "Machine Learning \nModule level, (optional): \n \nAbbreviation: \nML \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 3rd semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProfessorship for Data and Knowledge Engineering \nLecturer(s): \nProf. Dr.-Ing. Andreas N\u00fcrnberger",
       "matched_keywords": [
         "deep learning and neural networks",
@@ -1108,7 +1108,7 @@
       "max_score": 82.8,
       "language": "English",
       "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap...",
-      "explanation": "Here's why the course \"Software Testing\" is recommended for someone aspiring to be a DevOps Engineer:\n\nAspiring DevOps Engineers need to understand the importance of software quality and reliability, which is where software testing comes in. This course provides participants with knowledge on modern testing techniques, including static and dynamic testing, test-driven design, model-based and state-based testing, and more, enabling them to identify and fix issues early on in the development process. By acquiring these skills, aspiring DevOps Engineers can ensure high-quality software systems are delivered efficiently, which is a critical aspect of DevOps engineering."
+      "explanation": "Aspiring DevOps Engineers need to understand the importance of software quality and reliability, which is where software testing comes in. This course provides participants with knowledge on modern testing techniques, including static and dynamic testing, test-driven design, model-based and state-based testing, and more, enabling them to identify and fix issues early on in the development process. By acquiring these skills, aspiring DevOps Engineers can ensure high-quality software systems are delivered efficiently, which is a critical aspect of DevOps engineering."
     },
     {
       "goal": "DevOps Engineer",
@@ -1175,9 +1175,9 @@
         "contents"
       ],
       "match_scores": [
-        75.0
+        59.0
       ],
-      "max_score": 75.0,
+      "max_score": 59.0,
       "language": "English",
       "description_snippet": ":  \n \nLearning objectives & acquired skills: \nBasic understanding of searching in collections of multimedia \ndata \nKnowledge of information retrieval concepts \n...",
       "explanation": "I cannot provide a response that recommends a course without a clear connection to DevOps Engineering. Is there anything else I can help you with?"
@@ -1211,9 +1211,9 @@
         "learning_outcomes"
       ],
       "match_scores": [
-        61.2
+        75.2
       ],
-      "max_score": 61.2,
+      "max_score": 75.2,
       "language": "English",
       "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r...",
       "explanation": "I highly recommend the \"Advanced Database Models\" course for individuals aspiring to be DevOps Engineers due to its comprehensive coverage of non-relational database models, query languages, and design methodologies. This knowledge is essential for managing diverse data sources and designing scalable databases in a cloud-based environment, which is a critical aspect of DevOps. By mastering non-relational database models, one can improve their ability to develop efficient and reliable databases that support application development and deployment in a DevOps context."
@@ -1238,7 +1238,7 @@
     },
     {
       "goal": "DevOps Engineer",
-      "course_title": "Funktionale Programmierung - fortgeschrittene Konzepte und",
+      "course_title": "Functional Programming - advanced concepts and applications",
       "english_title": "Functional Programming - advanced concepts and applications \nModule level, (optional): \n \nAbbreviation: \nFP \nSubtitles (optional): \n \nCourses, (optional): \n \nSemster: \nB.Sc. from 4th semester; M.Sc. from 1st semester \nTerm: \nWinter semester \nModule coordinator:  \nProf. Dr. Till Mossakowski \nLecturer(s): \nProf. Dr. Till Mossakowski",
       "matched_keywords": [
         "software development and scripting"

@@ -136,11 +136,11 @@
         70.6,
         71.1,
         55.0,
-        75.0,
+        71.2,
         52.3,
         52.3
       ],
-      "max_score": 75.0,
+      "max_score": 71.2,
       "language": "English",
       "description_snippet": ":  \n \nLearning objectives and competences to be acquired: This \nseminar teaches how combinations of data analysis (clustering, \nregression analysis, classificat..."
     },
@@ -297,10 +297,10 @@
         "contents"
       ],
       "match_scores": [
-        71.1,
+        75.0,
         51.3
       ],
-      "max_score": 71.1,
+      "max_score": 75.0,
       "language": "English",
       "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r..."
     },
@@ -553,9 +553,9 @@
         "contents"
       ],
       "match_scores": [
-        59.6
+        59.5
       ],
-      "max_score": 59.6,
+      "max_score": 59.5,
       "language": "English",
       "description_snippet": ":  \nLearning objectives & skills to be acquired: - Stanford Biodesign \nPrinciple - Identify / Invent / Implement so-called Unmet Clinical \nNeed - Teaching innov..."
     },
@@ -641,9 +641,9 @@
         "contents"
       ],
       "match_scores": [
-        59.6
+        59.7
       ],
-      "max_score": 59.6,
+      "max_score": 59.7,
       "language": "English",
       "description_snippet": ":  \nKnowledge and Understanding:Participants understand the \nmost important testing techniques needed to build high quality \nsoftware systemsParticipants can ap..."
     },
@@ -948,9 +948,9 @@
         "contents"
       ],
       "match_scores": [
-        90.9
+        85.9
       ],
-      "max_score": 90.9,
+      "max_score": 85.9,
       "language": "English",
       "description_snippet": ":..."
     },
@@ -1423,9 +1423,9 @@
         "contents"
       ],
       "match_scores": [
-        75.0
+        59.0
       ],
-      "max_score": 75.0,
+      "max_score": 59.0,
       "language": "English",
       "description_snippet": ":  \n \nLearning objectives & acquired skills: \nBasic understanding of searching in collections of multimedia \ndata \nKnowledge of information retrieval concepts \n..."
     },
@@ -1457,9 +1457,9 @@
         "learning_outcomes"
       ],
       "match_scores": [
-        61.2
+        75.2
       ],
-      "max_score": 61.2,
+      "max_score": 75.2,
       "language": "English",
       "description_snippet": ":  \n \nComprehension of different non-relational database models, \ntheir basic concepts, and their historical development \nComprehension of implications of non-r..."
     },

@@ -69,9 +69,11 @@ def ai_chatbox():
         try:
             llm_answer = ask_ollama(prompt)
             st.session_state["ai_chatbox_answer"] = llm_answer
-            # Optionally clear question (but don't touch after widget is made in this run)
-            # st.session_state["ai_chatbox_question"] = ""  # Only on reset!
             st.rerun()
+        except requests.exceptions.ConnectionError:
+            st.sidebar.error(
+                "AI Career Assistant is only available in the local (offline) version of this app. "
+            )
         except Exception as e:
             st.sidebar.error(f"Error: {e}")
 

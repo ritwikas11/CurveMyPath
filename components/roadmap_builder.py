@@ -29,7 +29,7 @@ def display_ai_roadmap(goal):
         return
 
     # OVGU COURSES
-    st.markdown("#### 📚 Top 10 OVGU Courses")
+    st.markdown("#### 📚 Top OVGU Courses")
     for i, course in enumerate(top_courses, start=1):
         explanation = course.get("explanation", "")
         st.markdown(
@@ -41,7 +41,7 @@ def display_ai_roadmap(goal):
 
     # EXPLORE MORE
     if more_courses:
-        with st.expander("🔍 Click to view 5 additional relevant subjects (optional)"):
+        with st.expander("🔍 Click to view additional relevant subjects (optional)"):
             st.markdown("#### 🧭 Additional Relevant Courses")
             for i, course in enumerate(more_courses, start=11):
                 explanation = course.get("explanation", "")

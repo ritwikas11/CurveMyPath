@@ -8,8 +8,8 @@ from tinydb import TinyDB
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from components.llm_engine import generate_response_together
 
-# Load goals from courses.json
-with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/courses.json", "r") as f:
+# Load goals from goals.json
+with open("/Users/ritwikasen/Desktop/Digital Engineering/Summer 2025/HCAI/HCAI Project/CurveMyPath/data/goals.json", "r") as f:
     course_data = json.load(f)
 
 goals = list(course_data.keys())

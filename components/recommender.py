@@ -4,7 +4,7 @@ import json
 def select_goal():
     # Load course options
     try:
-        with open("data/courses.json", "r") as f:
+        with open("data/goals.json", "r") as f:
             course_data = json.load(f)
     except FileNotFoundError:
         st.error("Course data not found.")
