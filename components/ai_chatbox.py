@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import json
 import os
+import datetime
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 
@@ -69,6 +70,30 @@ def ai_chatbox():
         try:
             llm_answer = ask_ollama(prompt)
             st.session_state["ai_chatbox_answer"] = llm_answer
+
+            # ---- Audit begins here ----
+            AUDIT_FILE = os.path.join("data", "llm_audits.json")
+            os.makedirs("data", exist_ok=True)  # Ensure the folder exists
+            audit_response = audit_llm_output(user_question, llm_answer, course_context)
+            st.write(f"Saving audit to: {AUDIT_FILE}")  # Debug print
+            # Save audit result to file (append mode)
+            audit_entry = {
+                "timestamp": datetime.datetime.now().isoformat(),
+                "question": user_question,
+                "llm_answer": llm_answer,
+                "audit_response": audit_response
+            }
+            # Load current audits (if any), append, and save
+            try:
+                with open(AUDIT_FILE, "r") as f:
+                    audits = json.load(f)
+            except (FileNotFoundError, json.JSONDecodeError):
+                audits = []
+            audits.append(audit_entry)
+            with open(AUDIT_FILE, "w") as f:
+                json.dump(audits, f, indent=2)
+            st.write("Audit saved successfully.")  # Debug print
+            # ---- Audit ends ----
             st.rerun()
         except requests.exceptions.ConnectionError:
             st.sidebar.error(
@@ -83,3 +108,13 @@ def ai_chatbox():
         if st.sidebar.button("Reset", key="ai_chatbox_reset"):
             st.session_state["reset_chatbox"] = True
             st.rerun()
+
+def audit_llm_output(question, answer, context, model="llama3.2"):
+    audit_prompt = (
+        f"Context (courses/skills/tools):\n{context}\n"
+        f"Student's question:\n{question}\n"
+        f"AI's answer:\n{answer}\n"
+        "Is the answer factually accurate and relevant, based only on the provided context? "
+        "Reply YES or NO. If NO, briefly explain why."
+    )
+    return ask_ollama(audit_prompt, model=model)

@@ -14,7 +14,7 @@ auth.login_ui()
 
 # Header
 st.title("🎓 CurveMyPath")
-st.write("A simple course recommender for OVGU students. A career planner powered by AI 🚀")
+st.write("A simple course recommender for OVGU Masters' students. A career planner powered by AI 🚀")
 st.markdown("---")
 
 #AI Chatbox
@@ -36,6 +36,8 @@ st.markdown(
     Recommendations are based on the official module catalog (covering Computer Science, Digital Engineering, Data and Knowledge Engineering, Visual Computing, and related degrees) and feedback from a student survey (primarily Digital Engineering and Data & Knowledge Engineering).<br>
     All the subjects that are recommended are taught in English. Subjects that are taught in German are not considered for this tool.<br>
     For transparency and reliability, the system only includes courses and programs represented in the catalog as of 2024.
+    For the official OVGU module catalogue list, visit: <a href="https://www.inf.ovgu.de/en/Study/Being+a+student/Examination+Office/Study+Regulations/Module+Catalogue.html" target="_blank">Module Catalogue</a>.<br>
+    For detailed course descriptions, see: <a href="https://www.fin.ovgu.de/Studium/W%C3%A4hrend+des+Studiums/Pr%C3%BCfungsamt/Studiendokumente.html" target="_blank">Study Documents</a>.<br>
     </div>
     """,
     unsafe_allow_html=True
